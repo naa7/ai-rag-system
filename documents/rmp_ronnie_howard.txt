@@ -1,0 +1,61 @@
+Professor: Ronnie Howard
+Course: CS2050
+School: Georgia Institute of Technology
+Department: Computer Science
+Avg Rating: 3.7 / 5
+Avg Difficulty: 3.3 / 5
+Num Ratings: 168
+---
+[CS2050, Quality 3/5, Difficulty 1/5, Grade: A+] Discrete lowk kinda fun
+
+[CS2050, Quality 2/5, Difficulty 4/5, Grade: A+] Gives 10 hw problems per week that take more than 5 hours to do but only grades 3 random problems. It seems like he just wants to give us work because he can.
+
+[CS2050, Quality 1/5, Difficulty 5/5, Grade: B] Class was impossible after restructuring. Exam every other week, 6 total, and the hw would take 8-10 hrs. I would spend 1.5 hrs a day just to do the hw comprehensively because they graded that hard, too. No partial credit for proofs except for the 1 on exam 5. A TA who wrote a bijection proof hw problem didn't even know how to do it, it was graded.
+
+[CS2050, Quality 1/5, Difficulty 3/5] "Former highschool teacher" - don't be intimidated by any theatrics. Ron, tone it down.
+
+[CS2050, Quality 2/5, Difficulty 4/5, Grade: B] my gripe with ronnie was that he made the class unreasonably challenging in the beginning. due to my trajectory in the start of the semester, I wrote this class off for the rest of the semester. 
+
+in reality, the class gets easier and id suggest not giving up on an A. i wish he had been a bit more forgiving at the start. 
+
+amazing lectures imo
+
+[CS2050, Quality 1/5, Difficulty 4/5, Grade: B] So many exams its impossible to breathe or keep pace in the class. Homework is nothing like the exams and is graded extremely critically. Tests aren't terribly difficult but are so much work in so little time and graded harshly with little partial credit. Professor doesn't care if students are failing and offers little additional help.
+
+[CS2050, Quality 5/5, Difficulty 2/5, Grade: A+] Solid lectures, tons of online resources available to prep for exams. Homeworks are long and much harder than exams. Exams consist of only content discussed in lecture. if you go to lecture or read the lecture notes + do the practice exam then each exam is a breeze. I enjoyed the 6 exam format, gives you more room for mistakes.
+
+[CS2050, Quality 3/5, Difficulty 2/5, Grade: A] Ronnie is the easier professor compared to Ladha, but if you actually want to learn any discrete math at all for ur future career, DEFINITELY take Ladha. Ronnie's (and I'm assuming Britto's too) content is on the simplest level and I legit fall asleep in the lectures every time. He is not an interesting lecturer.
+
+[CS2316, Quality 1/5, Difficulty 3/5, Grade: B] Ronnie Howard used to be a fantastic professor but how has adopted the"Georgia tech mindset" instead of making learning an intuitive process, he decided to make everything unnecessarily difficult in the name of students getting B's. I don't know why teachers want their students to fail like this, it's unproductive
+
+[CS2050, Quality 2/5, Difficulty 4/5, Grade: B-] For disability accommodations, he especially took on a "Fairness mindset" which made it incredibly uncomfortable to ask for ODS approved accommodations. Overall, he seemed like he was trying too hard to be a "Georgia Tech Professor" than to actually be a good teacher. Maybe he'll grow into one later, but for now if you can avoid him: avoid him.
+
+[CS2050, Quality 1/5, Difficulty 4/5, Grade: B] Not sure why he decided to make it 6 exams instead of 4 exams this semster, you have almost no time to breathe in this class. I dont see the point of going through the content so quick (including stuff thats not even tested) and then testing your knowledge of thta content a couple of weeks later when we are 2 units ahead. Very dissapointed.
+
+[CS2316, Quality 5/5, Difficulty 4/5, Grade: A] Ronnie is still an amazing professor. His lectures were really engaging and provided a great introduction to the topic. Homeworks were long and brutal but really helped you digest the content. The tests were difficult but were consistent with what was taught in class. Easy final project that boosts your grade if done correctly.
+
+[CS2050, Quality 5/5, Difficulty 2/5, Grade: A] Got an A on every single exam lmao the 6 exam policy is really not bad. Pretty forgiving if you bomb one of them- and no cumulative exam. HW is quite long but Ronnie is a good prof. I would show up to lecture even though not mandatory. Tons of people didnt show up to lecture (>1/2 of section) and are complaining about not scoring well
+
+[CS2316, Quality 1/5, Difficulty 5/5, Grade: B] do not take w him. unless youre alr super proficient in python then this is a good refresher. if youre like the majority of students, youll need to learn it on your own.
+
+[CS2316, Quality 5/5, Difficulty 3/5, Grade: A] Ronnie's the goat for this class with awesome lectures and plenty of practice material for exams. Everyone who says otherwise is just trying to cope with the fact that they're brainless baboons.
+
+[CS2050, Quality 1/5, Difficulty 4/5, Grade: A+] This class was just awful. Six exams with really time-consuming homework. Ronnie said he'll be continuing this six exam policy into next semester where classes are 75 minutes, so be ready for lecture and an exam if you plan on taking him. Avoid if possible
+
+[CS2050, Quality 4/5, Difficulty 4/5, Grade: A] Ronnie is 100% the best professor for 2050. Due to the syllabus changing from previous semesters, this semester was a roller coaster of emotions, but if you put the effort in and study, you will do good in the class. That being said, it is definitely harder than it needs to be.
+
+[CS2050, Quality 4/5, Difficulty 4/5, Grade: B] 2050 is a tough course, but Ronnie is prob the best of the bunch. He's a caring guy, and his lectures are pretty amazing. That said, this course is much tougher than you'd assume - 6 exams worth 84% of your grade is brutal, and it feels like there's no break from exams. Weekly HWs take hours. If you're willing to put in the work, you'll be alright.
+
+[CS2316, Quality 2/5, Difficulty 5/5, Grade: B] this class was a lot harder than it should've been. the exams were always harder than the practice and there was a lot of self studying involved. the homeworks are really hard and there are a lot of them. pls take it w a different prof if possible! ronnie was funny but funny doesn't get u As
+
+[CS2050, Quality 5/5, Difficulty 1/5, Grade: A] If u want an easy A, choose Ronnie and you won't be upset as long as you don't upset urself by not studying.
+
+[CS2050, Quality 5/5, Difficulty 5/5, Grade: A] Ronnie's lectures are efficient and full of happiness. Really easy to get an A if you do spent time learning the course, exams are close to teaching materials.I think the 6 exams schedule make you focus on one chapter a time and it's super easy to ACE it! Ronnie seems to be tough but is offering so many extra credit cards.
+
+[CS2316, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] Felt like he didn't really care if we learned. Exams didn't correlate to past exams and were much harder than what we went over in class. Hws took so long in the beginning of the semester. Class and hws got less intense as sem went on which was nice. TA's were kind, but this class was overall much harder than it shldve been. LOTS of self studying
+
+[CS2050, Quality 4/5, Difficulty 4/5, Grade: B+] CS 2050 is an insanely hard class and is gonna be difficult with any prof but TAKE IT WITH HIM. His lectures were amazing and he was always trying to find ways to help his students. Tests were relatively straightforward with partial credit but there are 6 exams and are work 84% of your grade.
+
+[CS2050, Quality 3/5, Difficulty 5/5, Grade: Not sure yet] Exams weigh 84% of your course grade, which seems a bit much compared to other computer science courses and mathematics courses at Georgia Tech. Open-ended questions on exams are all or nothing - - you won't get any partial credit.
+
+[CS2050, Quality 5/5, Difficulty 4/5, Grade: A] they changed the syllabus from previous semesters which made the first half of the class difficult. They listened to feedback and made it much more forgiving for the second half tho. Ronnie is still the best lecturer for discrete. Homeworks are very long tho and are basically weekly. Basically an exam every two weeks too which made things hectic

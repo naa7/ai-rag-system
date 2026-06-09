@@ -1,0 +1,58 @@
+Professor: Cedric Stallworth
+Course: CS1371
+School: Georgia Institute of Technology
+Department: Computer Science
+Avg Rating: 3.5 / 5
+Avg Difficulty: 3.2 / 5
+Num Ratings: 153
+---
+[CS1371, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] Take a diff professor if possible. We did not learn anything in lecture, but attendance is mandatory b/c there is a quiz at the end of each. Exams were insanely difficult and long, no one ever finished them. Impossible to get hold of outside of class, whether it is email or his own office hours. Would cover topics two weeks after we did hw on them.
+
+[CS1371, Quality 4/5, Difficulty 2/5, Grade: A] like pretty much everyone else says, he is not the most on task in lecture, but in my opinion tests were not unreasonably hard (i had no prior coding experience and did well with little studying) and the videos in canvas were super helpful. as long as you actually do the homeworks, you should have a good enough understanding to do well on exams.
+
+[CS1371, Quality 1/5, Difficulty 4/5, Grade: B] Goes on tangents instead of teaching in lecture. Exams are way harder than they need to be. If you do not know how to code beforehand, prepare to spend your life on this class if you want a decent grade. The TA's carry. The other prof for this class is better. He's good at public speaking, but he just talks about his failed football career.
+
+[CS1371, Quality 1/5, Difficulty 5/5] There is no point in going to lectures besides taking the quiz at the end. You'll learn nothing in lecture as he just yaps about football career and flex his two degrees. He'll teach the material that you needed for last weeks homework. Test are very rough and prepare to spend hours on the homework. Whole class was just a comedy show...
+
+[CS1371, Quality 2/5, Difficulty 3/5, Grade: Not sure yet] He was at one point two weeks of lectures behind the homeworks, but there are lecture quizzes so you still have to attend. He's impossible to get in touch with - doesn't answer email and doesn't attend his own online office hours sometimes. He goes on tangents and is super disorganized. For those new to code, I'd say take the online section atp.
+
+[CS1371, Quality 2/5, Difficulty 4/5, Grade: A] Stallworth is an okay lecturer - goes on tangents and spends forever on the same example. Also always behind where you are in the homework - which is basically the foundation of the class. I would recommend going to recitation instead and going to lecture just to get your dose of doomscrolling in.
+
+[CS1371, Quality 1/5, Difficulty 4/5, Grade: A] 5/5 if this were Rate My Comedian, but his ramblings, including but not limited to figure skating, cost of attendance, race, and GT sports, left little class time to learn MATLAB. You are often exposed to a topic for the first time in homework, leading the GOAT TAs to do all the heavy lifting. My apologies to anyone with no prior coding experience.
+
+[CS1371, Quality 3/5, Difficulty 2/5, Grade: A] Lectures were not very useful but mandatory with 1 question quizzes each lecture, but some are dropped at the end. The final can be exempted if you have an A before the final. Homework takes a few hours but if you do them yourself, they help a lot for the exams and reduce how much you need to study.
+
+[CS1371, Quality 1/5, Difficulty 4/5, Grade: C] Spends class talking about football, not CS. Don't take the class if you don't already know how to code. The TA's carry this class.
+
+[CS1371, Quality 2/5, Difficulty 3/5, Grade: A] Changed the curriculum he wanted to do 1 week before the exam, and did not provide the resources for those topics. Only way to study that new material was to find one or two pictures of his MATLAB scripts during lectures, as no other previous sections had done the material, nor was any other video or script published. Very disorganized
+
+[CS1371, Quality 4/5, Difficulty 2/5, Grade: A] He's decent. Hilarious guy. Meh lecturer - rambled a lot, uncoordinated with his TAs. I found it fine since I had prior experience with coding/MATLAB, but if this is your first coding class, be ready to do a lot of learning yourself. Exams were sometimes a bit long, but mostly fine.
+
+[CS1371, Quality 2/5, Difficulty 4/5, Grade: Not sure yet] He's funny...I'll give him that. But he has no coordination with the TAs, the tests are long and difficult, the homework can take hours out of your week, and he rambles during lecture. I got Bs on the first two midterms, which isn't too bad, but I know a lot of students who did way worse.
+
+[CS1371, Quality 2/5, Difficulty 5/5, Grade: C-] This guy... tests are ridiculous. Never enough time. Homework is extremely long and arduous, so by the time you reach the extra credit portion you have already been working for hours. Testing periods are 300+ people, which are on a lockdown browser. You have to scroll up and down continuously to see the question and code. Also, lectures ramble.
+
+[CS1371, Quality 1/5, Difficulty 5/5, Grade: Drop/Withdrawal] I'm choosing peace and kind words but I really really do not like him. You learn nothing in lecture, have a quiz for participation that's all or nothing in EVERY class, he is disrespectful to accommodations, and I could keep going on and on. The exams are impossible and only test writing like 100+ lines of code 5 times.
+
+[CS1371, Quality 3/5, Difficulty 4/5, Grade: A] Unc did not teach &#128557;. The coordination amongst the TAs and Stallworth was also clearly not the best. exams took nearly a month to grade and recitation material didn't always match lecture. Best way to study is use all the practice resources provided and practice intensely with MatLab coding (especially if you have minimal prior coding experience).
+
+[CS1371, Quality 3/5, Difficulty 3/5, Grade: A-] He was an alright professor. He had the tendency to go on relatively long tangents but did teach the course content well. I had previous coding experience, which made it easier, but it still could have been a lot better.
+
+[CS1371, Quality 3/5, Difficulty 4/5, Grade: B] He gets distracted super easily and rarely covers everything that we were supposed to cover. The homeworks are super lengthy, although they are very good practice for tests. STUDY FOR THE TESTS, OR THEY WILL KICK YOUR BEHIND. Do the extra credit, you will probably need it. Overall, the extra credit and test-drop make up for the lack of teaching.
+
+[CS1371, Quality 2/5, Difficulty 4/5, Grade: A+] Professor Stallworth is very funny, but lectures mainly skim topics and attendance is mostly for mandatory quizzes. Homework is much harder and is very time-consuming since you must learn the content yourself. Recitations are hit or miss, tests are super hard, but grading helps.
+
+[CS1371, Quality 4/5, Difficulty 3/5, Grade: A] Took an online section of his MATLAB class. Lectures were optional and he tended to go off topic during them. However, exam review sessions were very informative. 
+Be ready for long homework grinds! Do the extra credit!
+
+[CS1371, Quality 3/5, Difficulty 2/5, Grade: A] Professor can go off topic on completely unrelated tangents for 10-15 minutes at a time, but his explanations of MATLAB were solid. Course is very manageable if you have previous coding experience, but can be challenging if its your first time coding (like basically any other coding class).
+
+[CS1371, Quality 1/5, Difficulty 4/5, Grade: B] Like Doug from Up, distracted by everything he notices. Incredibly hard tests and over-worked TAs.
+
+[CS1371, Quality 3/5, Difficulty 4/5, Grade: B] Stallworth is pretty entertaining, but his time management skills are not great (you learn the info the day before homework is due). The tests are the hardest part of the class, especially the tracing problems. Overall, Stallworth is a great guy but a frustrating and difficult teacher for those with no prior coding knowledge.
+
+[CS1371, Quality 3/5, Difficulty 4/5, Grade: A] I got a 58 on the first exam and was absolutely devastated and thought I was gonna fail the class (freshman canon event), but I studied really hard and managed to get an A in the class. I learned the most by going to recitations and the TAs (shout out to Victor!). The MATLAB grader is extremely useful for exams. Lots of extra credit opportunities.
+
+[CS1371, Quality 3/5, Difficulty 4/5, Grade: B] He was very nice, but got off topic very fast and very often. If you have never coded before, you can never miss class, because everything builds off the lecture before. Lecture is optional, but he does in-class quizzes that count for a grade. I will say that I did pretty bad on exams 1-3, but did well on the final and homeworks and still got a B.
+
+[CS1371, Quality 2/5, Difficulty 4/5, Grade: B] Funny guy, but bad lecturer. Goes off topic and rants a lot, making students unprepared for his very difficult tests. TAs are way more useful; go to them if you need help. If you're like me and came into this class inexperienced with coding, you're gonna have to practice A LOT for an A. Self-taught the whole class pretty much... good luck.

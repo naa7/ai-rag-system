@@ -1,0 +1,61 @@
+Professor: Daniel Forsyth
+Course: CS2200
+School: Georgia Institute of Technology
+Department: Computer Science
+Avg Rating: 3.6 / 5
+Avg Difficulty: 3.6 / 5
+Num Ratings: 90
+---
+[CS2200, Quality 1/5, Difficulty 5/5] boring and talks irrelvant topics
+
+[CS2200, Quality 4/5, Difficulty 3/5, Grade: B] I lectures are hard to pay attention to, and the information is directly pulled from the textbook. The TA's were remarkably disorganized. 
+Textbook is genuinely great and not hard to stay engaged with. 
+The best advice I can give for this course is the read the chapters before doing any projects, and if you read them you'll be ok for exams.
+
+[CS2200, Quality 2/5, Difficulty 5/5] Forsyth is clearly very passionate about the subject. However, he has the MOST boring lectures ever. All my learning came from lab and reading the textbook
+
+[CS2200, Quality 3/5, Difficulty 3/5, Grade: B] forsyth... whatever. he's fine. him being good or bad won't affect your grade. the TAs on the other hand sucked this semester. there were 3 that were actually helpful in lab and office hours, the rest were rude af and really not helpful
+
+[CS2200, Quality 3/5, Difficulty 3/5, Grade: B] Okayish professor. Seems to enjoy the content and has passion. The lectures can be a bit dense but videos are posted so it's workable. The TAs drag the rating down; they're a step down from the 2110 TA group, and the four "quizzes" are worth 60% of your grade and tend to have somewhat arcane questions.
+
+[CS2200, Quality 3/5, Difficulty 4/5] Overall ok. His teaching style is not for me. Lectures are dense and sometimes hard to follow. However, he is knowledgeable and does care about the class. Rely on the textbook. There was a lack of communication between professor and TAs at the start but it got better. Homeworks and projects can be difficult so getting started early is key.
+
+[CS2200, Quality 5/5, Difficulty 4/5, Grade: B-] The class is hard, trust me. But Prof. Forsyth is the best part of it. So long as you communicate to him when you're struggling and show up during lectures, he'll care about you. That's something not a lot of teachers do. He knows what it's like to be a struggling GT student, and is there for advice when you need it. A gem of a professor who cares.
+
+[CS2200, Quality 1/5, Difficulty 5/5, Grade: B] Ignore prev years. Not sure why they got rid of open-note exams, they were clearly designed to be like this but they decide change that this semester. Too many random stuff to memorize and lectures were a snooze-fest; he would just read off the slides (which had a lot of errors too). Mandatory lab attendance was also annoying. Do better please
+
+[CS2200, Quality 3/5, Difficulty 4/5, Grade: A] I could not engage with a single lecture he gave as he mumbles quite a bit. I liked the projects in this class and I learned more from those than lecture. My lab TAs were great. I wish quizzes were open internet, like previous semesters. They likely changed it due to LLMs and could maybe allow a cheat sheet. Last project gave 4 pts EC.
+
+[CS2200, Quality 4/5, Difficulty 4/5, Grade: A] Had Forsyth for both 2110 and 2200; he's a good lecturer who clearly knows and cares a lot about the content! He does lecture pretty slow though and it's kind of boring at times. For 2200 I'd definitely recommend reading the textbook as the slides are based directly on it, and it may help fill in any gaps from lecture. Also the TAs were great!!
+
+[CS2200, Quality 1/5, Difficulty 5/5, Grade: B] Tests are 60% of the grade, and nothing was released beforehand like in past years. They made the tests more difficult, if not the same. Many heavily weighted questions come from obscure slide mentioned once in the slides. I liked the topics, but the exams feel unreasonable. Use the textbook, not just slides. Terrible tests
+
+[CS2200, Quality 5/5, Difficulty 5/5, Grade: A] I see posts saying the TAs were bad but I always went to my lab TAs OH and they both were great. They stayed after the lab til 8:30 and reviewed HW questions and helped us debugging projects. Maybe I was lucky to get good TAs like that
+
+The class content was nightmare tho, I hope I can secure an A but im not sure... good luck future students lol
+
+[CS2200, Quality 4/5, Difficulty 3/5, Grade: B] He was a good lecturer and condensed the textbook chapters pretty well. But a some of the exam questions were a test of niche knowledge. The multiple choice questions are 4 or 5 points (get 2-3 wrong and you get 1.5 points knocked off your entire grade). Multiple choice questions should max be 2 points. A lot of TAs never show up to OH either
+
+[CS2200, Quality 4/5, Difficulty 3/5, Grade: A] I think Professor Forsyth is a great lecturer and his lectures make the dense textbook much easier to understand even if he rambles a little. HOWEVER, the TA team is terrible. They are frankly not good at lab, VERY slow at grading assignments, slow to respond, etc. The students who want to be TAs in edstem probably respond more than the actual TAs.
+
+[CS2200, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] We are only 4 days away from final exam, yet no information has been posted, no practice material, no topic list, nothing. We don't know our grades as almost nothing is graded on time. ED discussion posts are left unanswered. Overall, this class has been run very poorly this semester, and at this point I'm just glad it will be over in few days.
+
+[CS2200, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] This class is run by horrible TAs. The tests are pure memorization and are effectively trivia questions. It is clear that the tests were designed based on prior years, when they were open notes. Homeworks and projects are busy work and provide very little learning since TAs refuse to grade homework and projects on time.
+
+[CS2200, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] Reads off a powerpoint that is filled with errors. Cool. I'll just go to office hours. TAs don't even show up to office hours most of the time. I wait 45 minutes for a TA in queue. TA says idk just read the book. Great. Open notes also got removed so there is lots of memorization of weird information.
+
+[CS2200, Quality 2/5, Difficulty 5/5, Grade: Not sure yet] Dan is very knowledgeable but that's about it. This semester's TA team was BAD. Answers on Ed were rude if they ever bothered to answer. Practice material came right before exams with no answers, and a TA set a 6:00AM demo, if he thought that was funny, it wasn't. Projects are long, help is rare, and the course can feel like it sets you up to fail.
+
+[CS2200, Quality 1/5, Difficulty 5/5, Grade: B] He was incredibly difficult as a professor and I found I didn't learn much of anything in class. The lectures were very boring (his attitude didn't help) and the content was infuriating at times. It was very clear that Dan did not particularly care about the structure of his class or how poorly his teaching style meshed with the content.
+
+[CS2110, Quality 4/5, Difficulty 4/5, Grade: A] I found Prof Forsyth's lectures difficult to follow, especially since he would often go off topic. I usually learned the content through attending lab or by doing the homeworks instead. However, he definitely is passionate about the course content and was always trying to come up with ways to provide more hepl and resources for students.
+
+[CS2200, Quality 2/5, Difficulty 4/5, Grade: Not sure yet] Homework every week plus projects that span 3-4 weeks. Project content not taught until week before due but told to start early. Lectures are a bore, just read the textbook, they cover the exact same thing. Expect to not get help from TAs, you will wait for hours in OH just for them to not be able to answer your question. Not impossible, but hard.
+
+[CS2200, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] The workload is insane and help is rare. You will wait 4 hours to get 5 mins of a TA's time on a VERY time consuming and vague project. You will have to do long homeworks every week and forget about fall break - you will be expected to study over it for the test immediately following it. The class is made unnecessarily difficult for little reason.
+
+[CS2200, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] Please ignore all the previous good reviews, the course is no longer structured the way it used to be. Projects are now worth 5% each and are extremely time consuming. Quizzes are now worth over half the grade with very little practice material. Professor makes the TAs do everything, and the current TAs are struggling.
+
+[CS2200, Quality 1/5, Difficulty 5/5, Grade: Incomplete] Terrible work load. You have a project and homework constantly running every week along with quizzes that test knowledge that hasn't even been taught it. He yaps about random history and falls behind in lecture constantly. The TAs do a terrible job also helping prepare for quizzes/answering questions while Dr. Forsyth is completely oblivious.
+
+[CS2200, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] Update on Course: Quizzes are no longer open notes and are worth 60% of the grade. Labs are manditory and lectures have participation quizzes. Projects are difficult and homeworks are not always simple. Professor is always behind in lecture content, thus you must read the textbook. Many TA's don't understand the content and grading takes weeks.

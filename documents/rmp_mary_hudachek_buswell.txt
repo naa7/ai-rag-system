@@ -1,0 +1,57 @@
+Professor: Mary Hudachek-Buswell
+Course: CS1332
+School: Georgia Institute of Technology
+Department: Computer Science
+Avg Rating: 3.5 / 5
+Avg Difficulty: 3.3 / 5
+Num Ratings: 174
+---
+[CS1332, Quality 1/5, Difficulty 2/5, Grade: A] Her order of presenting information is pretty messed up. Be ready to spend 1/3 of the time listening to words that are not elaborated, 1/3 afterwards to actually start learning things, and the last 1/3 to link the two parts and try to make sense of them.
+
+[CS1332, Quality 4/5, Difficulty 4/5, Grade: B] Professor Mary's CS1332 online course is amazing. Clear lecture videos with lots of examples and amazing accessibility through office hours. Exams were a bit difficult (particularly the coding), but hey, it's CS1332. Besides that, I would highly recommend.
+
+[CS1332, Quality 4/5, Difficulty 2/5] Lectures aren't very helpful. Her videos are pretty good and the TAs are very helpful. Basically very TA led. Faulkner taught our class once and he was pretty good, take him instead. Exams aren't too bad and similar to past exams but grades were very test heavy.
+
+[CS1332, Quality 4/5, Difficulty 3/5] The online class. Would recommend if you are comfortable with online pacing. The recorded content is pretty close to what is on the exam and isn't significantly out of date. Just make sure to keep up with the recorded content prior to the exams. Loved the sections on additional topics in theory that wasn't present in the online CS1331 class.
+
+[CS1332, Quality 2/5, Difficulty 4/5, Grade: Not sure yet] Class is taught completely virtual. Didn't meet the professor until the day of the final exam. Lecture videos are helpful, but reality checks seem out of date with exam difficulty/questions. Demos were a new thing added to the class, which I think was unnecessary due to the fact that we have no projects in this course and the class is online.
+
+[CS1332, Quality 2/5, Difficulty 3/5, Grade: A+] As a lecturer, she doesn't get through all of the content, makes mistakes, and frequently misses class. However her videos are very good quality and there are tons of resources online, so putting in the effort to making sure you stay caught up with the curriculum is a must and will get you a good grade. Dont go to class and just watch the videos
+
+[CS1332, Quality 4/5, Difficulty 2/5, Grade: A+] Super easy class; pretty easy lectures. Wish she engaged a lot more with the class. Also, the lectures were really slow. Take Faulkner
+
+[CS1332, Quality 5/5, Difficulty 4/5, Grade: Incomplete] Important class. Very good lecturer for the portion of the class she teaches. Attend class. Very good and accessible TA's, take advantage of them. You need to stay on top of homework and understanding to do well. Grading is harsh on tests, and the material on them seems more complicated and abstract than you would expect from a core understanding.
+
+[CS1332, Quality 4/5, Difficulty 4/5, Grade: A+] Dr. HB had amazing lecture videos and was a great person. CS 1332 was a bit more difficult than CS 1331 but there were plenty of resources to help one succeed on everything. Tons of extra credit administered throughout the year as well (about 7 bonus points towards exams + CIOS bonus).
+
+[CS1332, Quality 4/5, Difficulty 3/5, Grade: B] Probably the most caring professor I've ever had. She wants her students to not only succeed in this class but in your life and career. Her course is tough, but she explains topics well and although I never went to her Office Hours, she seems like the type of professor that would do whatever it took to help you out.
+
+[CS1332, Quality 3/5, Difficulty 3/5] O K HI BYE O K
+
+[CS1332, Quality 3/5, Difficulty 4/5, Grade: A+] honestly this class was pretty difficult, only because there are very few things this class is graded by. not to mention you have to have a passing exam average to pass the class. i get it, there are probably reasons why but as someone who had a hard time understanding things, it did not make it any easier that i didn't have any saving graces.
+
+[CS1332, Quality 4/5, Difficulty 5/5] I took the online section of this class and Dr. HB has amazing lecture videos that are incredibly helpful and well done! the exams are pretty difficult, but fair enough if you know the content. She's also really understanding, I had to take an emergency absence and she waived any late points I had on the HWs. I would definitely recommend!
+
+[CS1332, Quality 2/5, Difficulty 4/5] She literally has no idea what she is talking about. This course is run by incompetent people and makes GT look like a laughing stock
+
+[CS1332, Quality 3/5, Difficulty 4/5] HB is a decent lecturer; the course is just a bit tough for someone with little prior knowledge on the topics. I know people who claim to have bad experiences with her based on her character, but I have had no issues with her.
+
+[CS1332, Quality 3/5, Difficulty 3/5, Grade: A] She made these ridiculously high-quality lecture videos that are clear, concise, and easy to follow along. Discovering them made studying for exams so much easier. Do not take this class for granted, please just do the homeworks on time and study for the exams and you'll get an A.
+
+[CS1332, Quality 5/5, Difficulty 3/5, Grade: B-] Dr. HB's CS1332 class is one of my all-time favorites at GT, due in large part to how diverse the amount of learning materials there are. You can watch the module videos if you're more visual, use the vistool if you're more hands-on, or read from the slides if you prefer text-answers. The tests can be tricky, but are quite fair. Best CS course @GT.
+
+[CS1332, Quality 1/5, Difficulty 5/5] Very difficult to reach professor rarely responds to emails and is very last minute about updates like when the final is. Awful class with some of the worst test on knowledge I've seen just avoid at all cost.
+
+[CS1332, Quality 4/5, Difficulty 4/5, Grade: B] I took this course 3 times before I passed. There is an annoying test grade policy that makes it to where you can pass, but are still forced to retake the class. All things aside, HB is a great professor. She is caring for her students and is very involved. 1332 is simply a challenging course for those who are not ahead in their CS education.
+
+[CS1332, Quality 5/5, Difficulty 2/5, Grade: A] I learned a lot in this class, and it was low stress. The grading is very fair, and she even lets you exempt the final if you do well on the three exams. Exam content is easier than HWs and is similar to the practice exams on canvas. Lecture attendance wasn't required. Definitely recommend.
+
+[CS1332, Quality 4/5, Difficulty 4/5, Grade: B] Professor Hudachek-Buswell's 1332 class is challenging but rewarding. Her video lectures are clear, and tools like Unstuck study can help supplement your learning. Exams test your grasp of concepts, so stay on top of the material.
+
+[CS1332, Quality 5/5, Difficulty 3/5, Grade: A+] Good lecturer, clear explanations. Do not hesitate to ask questions anytime you have a doubt - she will answer your question thoroughly. I had the hybrid section, and her prerecorded videos are a solid resource. Well-organized course as well.
+
+[CS1332, Quality 5/5, Difficulty 3/5, Grade: A] Took this class during the summer. At the beginning, she seemed like she would be a scary teacher, but by the end of the semester it was clear that she was cared a lot about her students and the material she taught. Exams were based exactly on the homeworks and there were plenty of extra credit opportunities.
+
+[CS1332, Quality 5/5, Difficulty 3/5, Grade: A+] I took 1332 over the summer, meaning that the time constraints changed the way the course was structured. Professor Hudacheck-Buswell was a great professor that constantly worked towards accounting for the needs of the students. Lectures were only once a week, so I had to make the most of her pre-recorded videos and TA team in order to do well.
+
+[CS1332, Quality 4/5, Difficulty 3/5, Grade: A] Very good lecture videos. Exams were full of gotchas but overall class does a goos job at improving your coding skills and knowledge for later classes.

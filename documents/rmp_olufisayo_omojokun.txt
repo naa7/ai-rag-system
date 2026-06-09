@@ -1,0 +1,57 @@
+Professor: Olufisayo Omojokun
+Course: CS1331
+School: Georgia Institute of Technology
+Department: Computer Science
+Avg Rating: 3.2 / 5
+Avg Difficulty: 3.5 / 5
+Num Ratings: 179
+---
+[CS1331, Quality 5/5, Difficulty 3/5, Grade: A] Professor Omojokun did an excellent job explaining object-oriented programming concepts in a way that was both accessible and engaging. His enthusiasm for the material made the lectures enjoyable. The assignments were well-designed applications of the concepts being taught and provided an enjoyable way to reinforce the material.
+
+[CS1331, Quality 3/5, Difficulty 3/5, Grade: Not sure yet] He does his best with the course being online. Exams are somewhat inline, but the time given for some of the Exams is impossible to accurately evaluate your knowledge. My main complaint is with the school that decides to teach Java.
+
+[CS1331, Quality 1/5, Difficulty 4/5, Grade: Not sure yet] Professor was not available and is mostly run by TAs. The review materials given barely helped in preparing for the actual material. Online 1331 is mainly run by video lectures which explains the concept somewhat with examples but does not help much. Homework sets help but can be time consuming. The course itself is poorly run.
+
+[CS1331, Quality 1/5, Difficulty 5/5, Grade: B-] Teacher is barely available and the class is mostly run by TAs. The homework instructions are really confusing, and look AI generated. 55 percent of the grade is based on three tests, with no recovery. One of my tests, Honorlock kept locking me out, hurting my score, keeping me from getting higher than a B even though I did well on other tests.
+
+[CS1331, Quality 1/5, Difficulty 5/5, Grade: A] This class had a few frustrating problems. Professor Omojokun neglected the class a lot and never replied to emails, which made it hard to get help. The class was also basically run by the TAs. On top of that, the homework, modules, practice problems, and study guides never matched what was on the tests, so studying for exams was near impossible.
+
+[CS1331, Quality 5/5, Difficulty 3/5, Grade: Not sure yet] Engaging and professional lecture videos. Foundation-level homework that demands a good understanding (also tedious without automated workflows). Fun final project (also time-demanding, plan ahead!). Very flexible online course. Course content could be overly picky and focused on details irrelevant or easily Google-able in actual programming work.
+
+[CS1331, Quality 5/5, Difficulty 3/5, Grade: A] I greatly enjoyed the course series. I've taken several well-structured courses, but not all remain engaging. His enthusiasm for teaching is presented through a dynamic style, reflecting dedication to both the course and his students&#8212;a rare quality in my eyes as someone returning to uni after 10 years and knowing the value of maintaining passion.
+
+[CS1331, Quality 1/5, Difficulty 3/5, Grade: B] No CS class should test you on the date when companies acquire one another.
+
+[CS1331, Quality 1/5, Difficulty 4/5, Grade: B] The course is largely run by TAs. Exams are 55% of your grade and are inconsistent with homework, and use short study guides (sometimes with incorrect answer keys) that don't match the difficulty. HW is occasionally busy work but sometimes helpful, and the video lectures are informative. Omojokun is hard to access and not great with accommodations.
+
+[CS1331, Quality 1/5, Difficulty 4/5, Grade: A] At time of writing, 3 tests are worth a combined 55% of the final grade. Despite the concepts being relatively easy, this makes the tests unreasonably stressful. The homework is mostly busywork and incredibly annoying. Nearly all of the difficulty in this course comes from the work being an absolute pain to complete.
+
+[CS1331, Quality 3/5, Difficulty 4/5, Grade: C] As many of the other comments have said, this course is test heavy. Homeworks are simple, and are good indicators of how much you logically understand. TAs aren't the best, but the prof himself is decent. Tests are trick question levels of difficult, and expect your grade to be solely based on your test average.
+
+[CS1331, Quality 2/5, Difficulty 4/5, Grade: A] Homeworks are simple enough to understand but you don't get to see all of the testcases up front for them. The only practice material for exams are 1-2 pdfs or questions along with videos that can put you to sleep and exams are harder than any practice you use. Dr. O also does not respond quickly to messages and the class is essentially ran by TAs.
+
+[CS1331, Quality 1/5, Difficulty 5/5, Grade: D+] First time getting anything below an A in a course. Takes multiple days to reply to everything no leniency.
+
+[CS1331, Quality 4/5, Difficulty 2/5, Grade: A+] I took this class online with the Distance CS program my senior year of HS. Professor is nice and lecture videos are well structured. Make sure to review all the details, however, as exams are super detail oriented. Homeworks are the worst thing about this class, they take ages to complete and have a million hidden test cases.
+
+[CS1331, Quality 3/5, Difficulty 3/5, Grade: A] The online class is just ran by the TAs, and the weekly HWs take a couple hours max. Tests can be hard tho and there isn't much study materials given, but overall not too bad. Grading does take FOREVER and your grade is essentially just based off 3 midterms and a final, which can be a problem if you aren't a good test-taker.
+
+[CS1331, Quality 5/5, Difficulty 3/5, Grade: B+] Great Professor!
+
+[CS1331, Quality 1/5, Difficulty 5/5, Grade: B+] very very bad
+
+[CS1331, Quality 4/5, Difficulty 3/5, Grade: A-] Took 1331 for dual enrollment, class is pretty much run by TA's. Final grade is pretty much just your tests and final, so you will have to prepare for the tests. Tons of extra credit on the last homework and the final, which helps a ton. Pacing for the tests is a bit fast, but other than that not too bad of a class.
+
+[CS1331, Quality 5/5, Difficulty 3/5, Grade: A] I took him for GT cs dual enrollment, and he was a pretty good.
+
+[CS1331, Quality 1/5, Difficulty 4/5, Grade: C+] Funny how all of the good reviews are in the same exact language.... took this class right after 1301 (did very well) and it was terrible. Lecture videos were super surface level and homework was cooked. Tests were super difficult. Grading took forever, prof was impossible to reach, TAs ran the class and had little experience. Do not take!
+
+[CS1331, Quality 4/5, Difficulty 3/5, Grade: A] He is good at teaching the earlier material and gives helpful advice when asked. However, some of the later units were harder to comprehend, the homework is unnecessarily difficult, and grades are delayed for 1-2 weeks making it kinda frustrating.
+
+[CS1331, Quality 5/5, Difficulty 2/5, Grade: A] Professor Omojokun explains challenging concepts in a clear manner and provides lot of examples. He builds up on the concepts at a good pace. The homeworks were very interesting and included building popular games like battleship. He also goes the extra mile to provide recommendations for OMSCS applicants based on their performance in CS1331.
+
+[CS1331, Quality 5/5, Difficulty 1/5, Grade: Audit/No Grade] With experience in other programming languages, I found the course did an excellent job of helping me apply my existing knowledge to Java's specific implementation. The lectures were well-structured and easy to follow. The inclusion of regular homework and quizzes was helpful for reinforcing the concepts and ensuring the knowledge stuck.
+
+[CS1331, Quality 5/5, Difficulty 3/5, Grade: A+] I came into this with just an Intro to C course. This Java class broke down complex concepts clearly. Despite being fully online, Professor Fisayo was accessible and responsive. His passion for teaching shows in his lectures and makes the course enjoyable. I'd take him again if possible.
+
+[CS1331, Quality 1/5, Difficulty 4/5, Grade: A] The class was difficult and primarily run by TAs. Your grade is based on 3 exams, final exam, and 9 homeworks. The exams and HWs are a lot harder than the lecture videos, which are pretty basic. This class is good if your looking to self study, but getting a good grade is pretty difficult.

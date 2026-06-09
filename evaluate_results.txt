@@ -1,0 +1,105 @@
+================================================================================
+Q1: What do students say about Professor Joyner's exams?
+
+EXPECTED:
+  Exams are all-or-nothing coding tests with no partial credit; very difficult for an intro course; professor is largely inaccessible and the course is async — TAs handle most interactions.
+
+SYSTEM ANSWER:
+  According to the students, Professor Joyner's exams are difficult, especially for those without a CS background, and are all or nothing, with no partial credit. One student also mentions that the tests are handled by TAs, but does not provide specific feedback on the exams themselves.
+
+RETRIEVED CHUNKS:
+  - [rmp_david_joyner.txt (David Joyner — CS1301) | dist=0.353] [CS1301, Quality 2/5, Difficulty 4/5, Grade: B] It is hard to rate Professor Joyner as he is extremely inacces...
+  - [rmp_david_joyner.txt (David Joyner — CS1301) | dist=0.382] [CS1301, Quality 5/5, Difficulty 4/5, Grade: B] Dr. Joyner is a very knowledgeable and caring; he is highly re...
+  - [rmp_ronnie_howard.txt (Ronnie Howard — CS2050) | dist=0.387] [CS2050, Quality 1/5, Difficulty 4/5, Grade: B] Not sure why he decided to make it 6 exams instead of 4 exams ...
+  - [rmp_frederic_faulkner.txt (Frederic Faulkner — CS1332) | dist=0.397] [CS1332, Quality 5/5, Difficulty 2/5, Grade: A] Literal goat professor. Explained topics so clearly. Exams wer...
+  - [rmp_aibek_musaev.txt (Aibek Musaev — cs1331) | dist=0.405] [cs1331, Quality 4/5, Difficulty 2/5, Grade: A] he was nowhere near as bad as these reviews made him out to be...
+
+SOURCES CITED:
+  rmp_david_joyner.txt (David Joyner — CS1301), rmp_ronnie_howard.txt (Ronnie Howard — CS2050), rmp_frederic_faulkner.txt (Frederic Faulkner — CS1332), rmp_aibek_musaev.txt (Aibek Musaev — cs1331)
+
+ACCURACY JUDGMENT: ____ (accurate / partially accurate / inaccurate)
+
+================================================================================
+Q2: Which professor is best for someone brand new to programming?
+
+EXPECTED:
+  Borela (CS1301) — highly rated, assumes no prior coding experience, explains Python clearly, approachable, plenty of practice exams.
+
+SYSTEM ANSWER:
+  According to the reviews, Mark Moss (CS2110) is described as "the type of professor that makes you fall in love with computer science" and his class is said to remind students "why you came to GT." However, the difficulty of his class is rated as 1/5, which may not be representative of a typical programming course for beginners. Rodrigo Borela (CS1301) is also highly rated, with a student who had no prior coding experience stating they "ended up doing well in the class." Therefore, based on the provided information, Rodrigo Borela or Mark Moss might be a good choice, but Rodrigo Borela's class seems more relevant for someone brand new to programming.
+
+RETRIEVED CHUNKS:
+  - [rmp_cedric_stallworth.txt (Cedric Stallworth — CS1371) | dist=0.372] [CS1371, Quality 3/5, Difficulty 3/5, Grade: A-] He was an alright professor. He had the tendency to go on rel...
+  - [rmp_frederic_faulkner.txt (Frederic Faulkner — CS1332) | dist=0.405] [CS1332, Quality 5/5, Difficulty 3/5] Professor is very very good at teaching DSA concepts and other complicat...
+  - [rmp_mark_moss.txt (Mark Moss — CS2110) | dist=0.436] [CS2110, Quality 5/5, Difficulty 1/5, Grade: A] The type of professor that makes you fall in love with compute...
+  - [rmp_cedric_stallworth.txt (Cedric Stallworth — CS1371) | dist=0.445] [CS1371, Quality 4/5, Difficulty 2/5, Grade: A] He's decent. Hilarious guy. Meh lecturer - rambled a lot, unco...
+  - [rmp_rodrigo_borela.txt (Rodrigo Borela — CS1301) | dist=0.449] [CS1301, Quality 5/5, Difficulty 3/5, Grade: A] He was a great professor! The class was difficult in the begin...
+
+SOURCES CITED:
+  rmp_cedric_stallworth.txt (Cedric Stallworth — CS1371), rmp_frederic_faulkner.txt (Frederic Faulkner — CS1332), rmp_mark_moss.txt (Mark Moss — CS2110), rmp_rodrigo_borela.txt (Rodrigo Borela — CS1301)
+
+ACCURACY JUDGMENT: ____ (accurate / partially accurate / inaccurate)
+
+================================================================================
+Q3: How heavy is the workload in Professor Starner's AI course?
+
+EXPECTED:
+  Very heavy — 20+ hours per week, difficult projects that must be started early, largely self-taught; plenty of extra credit available via auto-graded projects.
+
+SYSTEM ANSWER:
+  According to the sources, the difficulty of Professor Starner's CS3600 course varies, with ratings of 5/5, 3/5, and 1/5. One source mentions that the class was the "hardest class I've ever taken" and that "most of the materials from this class were self-taught", suggesting a heavy workload. However, another source with a difficulty rating of 1/5 does not mention the workload as being heavy.
+
+RETRIEVED CHUNKS:
+  - [rmp_thad_starner.txt (Thad Starner — CS3600) | dist=0.464] [CS3600, Quality 1/5, Difficulty 5/5, Grade: A] Prof. Starner is a person who knows many things but doesn't kn...
+  - [rmp_melinda_mcdaniel.txt (Melinda McDaniel — CS4400) | dist=0.466] [CS4400, Quality 1/5, Difficulty 5/5, Grade: B+] The professor is sweet but that's it. The class is ran by TA'...
+  - [rmp_thad_starner.txt (Thad Starner — CS3600) | dist=0.468] [CS3600, Quality 2/5, Difficulty 3/5, Grade: A] Starner's lectures definitely aren't carefully planned + execu...
+  - [rmp_melinda_mcdaniel.txt (Melinda McDaniel — CS4400) | dist=0.469] [CS4400, Quality 2/5, Difficulty 5/5, Grade: B-] The tests this semester are made so hard for no reason, even ...
+  - [rmp_thad_starner.txt (Thad Starner — CS3600) | dist=0.469] [CS3600, Quality 1/5, Difficulty 1/5, Grade: A+] Starner is the WORST professor, teacher, whatever, that I hav...
+
+SOURCES CITED:
+  rmp_thad_starner.txt (Thad Starner — CS3600), rmp_melinda_mcdaniel.txt (Melinda McDaniel — CS4400)
+
+ACCURACY JUDGMENT: ____ (accurate / partially accurate / inaccurate)
+
+================================================================================
+Q4: Which professor gives the most useful feedback on assignments?
+
+EXPECTED:
+  (Hard case) No document describes a professor giving detailed feedback on assignments — the word 'feedback' only appears in the sense of professors receiving student feedback. Correct behavior = decline / say not enough info. Distractors: several professors are described as accessible at office hours (Moss, Borela), which a weakly-grounded system may paraphrase into a false answer.
+
+SYSTEM ANSWER:
+  I don't have enough information on that.
+
+RETRIEVED CHUNKS:
+  - [rmp_frederic_faulkner.txt (Frederic Faulkner — CS1332) | dist=0.455] [CS1332, Quality 5/5, Difficulty 3/5, Grade: B+] Professor Faulkner is legitimately the best lecturer I've had...
+  - [rmp_mark_moss.txt (Mark Moss — CS2110) | dist=0.474] [CS2110, Quality 5/5, Difficulty 3/5, Grade: A] Professor Moss was a good lecturer for what can easily be a ve...
+  - [rmp_mark_moss.txt (Mark Moss — CS2110) | dist=0.476] [CS2110, Quality 3/5, Difficulty 2/5, Grade: Not sure yet] overall he's a kind and chill teacher. he does have...
+  - [rmp_mark_moss.txt (Mark Moss — CS2110) | dist=0.485] [CS2110, Quality 5/5, Difficulty 3/5, Grade: C] Such a great lecturer; really cares about his students. Lectur...
+  - [rmp_cedric_stallworth.txt (Cedric Stallworth — CS1371) | dist=0.487] [CS1371, Quality 3/5, Difficulty 3/5, Grade: A-] He was an alright professor. He had the tendency to go on rel...
+
+SOURCES CITED:
+  rmp_frederic_faulkner.txt (Frederic Faulkner — CS1332), rmp_mark_moss.txt (Mark Moss — CS2110), rmp_cedric_stallworth.txt (Cedric Stallworth — CS1371)
+
+ACCURACY JUDGMENT: ____ (accurate / partially accurate / inaccurate)
+
+================================================================================
+Q5: Do any CS professors offer makeup exams for students who miss one?
+
+EXPECTED:
+  (Hard case) No document describes makeup exams. The corpus is dense with exam talk (difficulty, curving, all-or-nothing grading, final exemptions), so a near-miss chunk can tempt a confident wrong answer. Correct behavior = decline / say not enough info.
+
+SYSTEM ANSWER:
+  I don't have enough information on that.
+
+RETRIEVED CHUNKS:
+  - [rmp_melinda_mcdaniel.txt (Melinda McDaniel — CS4400) | dist=0.455] [CS4400, Quality 1/5, Difficulty 5/5] The TAs who created the test have written the exams to be much harder th...
+  - [rmp_abrahim_ladha.txt (Abrahim Ladha — CS2050) | dist=0.505] [CS2050, Quality 1/5, Difficulty 5/5, Grade: Drop/Withdrawal] Avoid this professor. Assignments, review materi...
+  - [rmp_daniel_forsyth.txt (Daniel Forsyth — CS2200) | dist=0.508] [CS2200, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] Please ignore all the previous good reviews, the co...
+  - [rmp_cedric_stallworth.txt (Cedric Stallworth — CS1371) | dist=0.524] [CS1371, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] Take a diff professor if possible. We did not learn...
+  - [rmp_david_joyner.txt (David Joyner — CS1301) | dist=0.531] [CS1301, Quality 1/5, Difficulty 5/5, Grade: B+] In my experience, this professor was rarely available and see...
+
+SOURCES CITED:
+  rmp_melinda_mcdaniel.txt (Melinda McDaniel — CS4400), rmp_abrahim_ladha.txt (Abrahim Ladha — CS2050), rmp_daniel_forsyth.txt (Daniel Forsyth — CS2200), rmp_cedric_stallworth.txt (Cedric Stallworth — CS1371), rmp_david_joyner.txt (David Joyner — CS1301)
+
+ACCURACY JUDGMENT: ____ (accurate / partially accurate / inaccurate)
+

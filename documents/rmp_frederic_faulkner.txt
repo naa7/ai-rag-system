@@ -1,0 +1,59 @@
+Professor: Frederic Faulkner
+Course: CS1332
+School: Georgia Institute of Technology
+Department: Computer Science
+Avg Rating: 4.7 / 5
+Avg Difficulty: 2.8 / 5
+Num Ratings: 140
+---
+[CS1332, Quality 5/5, Difficulty 4/5, Grade: A-] Amazing lecturer, always well-motivated concepts and kept students engaged. All the resources you need are online at the course website, but DO NOT SLACK OFF: exams were nontrivial yet fair and the homeworks ("projects") were very long (20 pages of instructions each). Start your homeworks *early* and don't bother using AI (many get caught).
+
+[CS1332, Quality 5/5, Difficulty 3/5] Professor is very very good at teaching DSA concepts and other complicated algorithms. One of the best CS professors at this school. Other then the whole AI situation of Spring 2026, the class was enjoyable and important. Project Demos are rather difficult.
+
+[CS1332, Quality 5/5, Difficulty 3/5, Grade: B+] Professor Faulkner is legitimately the best lecturer I've had in my life. He breaks down complex topics really well and seems to understand them incredibly deeply. He's also available to talk to about class topics, especially real-world applications and justifications, outside of class. If you're taking 1332 don't go to anyone else's lectures.
+
+[CS1332, Quality 5/5, Difficulty 3/5, Grade: A] Good lectures that go through multiple examples to grasp the different data structures/algos. Grade is nicely balanced between homeworks, tests, and projects. Class does a great job of honing programming skills.
+
+[CS1332, Quality 4/5, Difficulty 4/5, Grade: Drop/Withdrawal] Good professor he uses the entire class to teach as much as he can. Perfect talking speed, organized, and he draws everything out. Hard class in general with big projects. Definitely, go to office hours and get help right at the beginning there are many resources that can help you throughout the course. Do not fall behind and start EARLY!!
+
+[CS1332, Quality 5/5, Difficulty 3/5, Grade: A] Lectures are goated, enjoyed every single one. Diagramming is super clear and cool, very first-time learner friendly. Even though I disliked debugging coding assignments for 20+hrs in TA lab (be sure to start early) and ragequitted CS to become a pirate (Fred joke for introducing DFS), I still love data structures and algorithms in CS theory.
+
+[CS1332, Quality 5/5, Difficulty 3/5, Grade: B] The best lecturer I have had. The class consists of mostly of homework and tests. Highly recommend using office hours, all the TAs were very good.
+
+[CS1332, Quality 5/5, Difficulty 2/5, Grade: A] I love the way 1332 is structured. Never went to class because he recorded and uploaded the videos. Generally love the way he teaches as well as Mary's video, and I love how you can exempt the final!
+
+[CS1332, Quality 5/5, Difficulty 3/5, Grade: B+] lectures are pretty heavy in material. homeworks take a long time .tests focus on the stuff you see in lectures and practice tests are also helpful.he explains content well, but its sometimes hard to recall the giant amount of information he dumps in previous lectures. pay attention and review often
+
+[CS1332, Quality 5/5, Difficulty 2/5, Grade: A] Clear lectures, lots of material, and tests that align to the course content. Homeworks take time but there's a lot of resources online and in the lecture to help with that.
+
+[CS1332, Quality 5/5, Difficulty 2/5, Grade: A+] Professor Faulkner is an excellent professor. His lectures are clear, well-paced, and easy to follow with annotated OneNote slides. If you pay attention and use the provided pseudocode, getting an A is very doable. Exams are fair and similar to the practice exams. There is also a lot of extra credit and a final exemption option.
+
+[CS1332, Quality 5/5, Difficulty 2/5, Grade: A] Faulkner is a GOAT professor. In terms of learning from lectures, his lectures are far easier to follow than HB's, as he keeps things at a moderate pace with annotated notes on OneNote. He always keeps things straightforward, and if you pay attention in class, it is p easy to get an A if you also use the pseudocode they provide in course materials.
+
+[CS1332, Quality 5/5, Difficulty 2/5, Grade: A] 1332 itself is a very straightforward class, and Professor Faulker's lectures were easy to follow and understand-- most of the time I didn't require any review after paying full attention in class. He does speak really fast so if you plan on watching recordings, you'll most likely need to keep it at the normal speed.
+
+[CS1332, Quality 5/5, Difficulty 3/5, Grade: A+] My glorious king
+
+[CS1332, Quality 5/5, Difficulty 3/5, Grade: B] Great lecturer, not really too keen on speaking to students personally but he explains concepts insanely well from the ground up. Would recommend!
+
+[CS1332, Quality 5/5, Difficulty 2/5, Grade: A] Literal goat professor. Explained topics so clearly. Exams were very fair and similar to the practice exams, and there is a bunch of extra credit. You can exempt the final too. One thing I recommend is to take the hybrid version because they get recorded lecture videos which are up for a week, and can still attend lectures if you wish.
+
+[CS1332, Quality 4/5, Difficulty 3/5, Grade: A] Very solid professor for 1332. Take if possible
+
+[CS1332, Quality 5/5, Difficulty 4/5, Grade: A] Overall great lectures that are to the point. Explains things well and clearly. 
+
+Uses OneNote instead of a PPT, which is so much better IMO. I hate lecturers that just use slides.
+
+[CS1332, Quality 5/5, Difficulty 3/5, Grade: A] Best 1332 prof. Clear expectations and grading criteria, lots of extra credit and you can exempt the final.
+
+[CS1332, Quality 5/5, Difficulty 1/5, Grade: A] Faulkner is the GOAT. Lectures are extremely well done and informative, and there are videos on canvas if you don't attend. Tests were very fair and you can exempt the final if you do well on them. Homework is manageable, especially with the help of CSVistool. Overall, definitely take 1332 with Faulkner.
+
+[CS1332, Quality 4/5, Difficulty 4/5, Grade: A] Great guy, great professor, great course. I will say lectures lowkey take too long though just watch Prof MHB's module videos on canvas, they explain a full week's information in like 20 minutes. But nonetheless lectures are pretty good for understanding. Try to exempt the final cos it's worth it, exam 1,2,3 are pretty easy imo
+
+[CS1332, Quality 3/5, Difficulty 3/5, Grade: Incomplete] Pretty good professor but definitely overglazed on rate my professor. Lectures are not very good for actually learning, but are decent for reinforcing prior knowledge.
+
+[CS1332, Quality 4/5, Difficulty 3/5, Grade: A] Very good lecturer, really knows his stuff. However, he speaks extremely fast. So, I would learn the content before coming into class and then understand while he speaks rather than taking notes. Tests are standardized. Can watch MHB videos as review after going to Faulkner lecture. Very nice guy and good teacher. Also, he posts lecture videos.
+
+[CS1332, Quality 5/5, Difficulty 4/5, Grade: A] He's an amazing lecturer, he is quite funny at times, and to be honest he seems really chill. But the thing is that this class is hard, and you're gonna need to put time into it outside, I'd say study for this class everyday for 45 mins to an hour, especially if you don't understand the content in lecture. Also practice alot with the given practice
+
+[CS1332, Quality 5/5, Difficulty 3/5, Grade: A] Amazing lectures that go well with the HW's and exams. You will understand so much about every data structure and algorithm after this class. Also they added demos this semester which were alright just a little stressful under time pressure.

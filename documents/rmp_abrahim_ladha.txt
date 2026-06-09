@@ -1,0 +1,59 @@
+Professor: Abrahim Ladha
+Course: CS2050
+School: Georgia Institute of Technology
+Department: Computer Science
+Avg Rating: 3.2 / 5
+Avg Difficulty: 4 / 5
+Num Ratings: 178
+---
+[CS3510, Quality 5/5, Difficulty 5/5, Grade: A] Absolutely insanely amazing. I do not understand how someone can teach such mature and sophisticated topics with such ease, in a way that makes the information as easy to understand as a 1000 level class. The tests are challenging, but are graded with enough lenience that if you have the right idea, you'll be fine. He is also quite funny. Take him!
+
+[CS2050, Quality 5/5, Difficulty 3/5, Grade: A+] People say his exams being too difficult and not related to the practice.Yes, the problems are not trivial, but you will be fine if you understand the concepts instead of memorizing the answers. If you expect to not think during the exam and only know how to solve problems you've seen before, go back to high school. You'll be replaced by AI anyway.
+
+[CS4510, Quality 5/5, Difficulty 3/5, Grade: A] Ladha's CS4510 is a gem. His class will train you to think like a computer theorist and solve problems that are too abstract to find real-life parallels for. It is a crucial skill for problem-solving and becoming an actual CS thinker. HWs are very challenging but interesting, so attend office hours. He's very supportive and accessible as well.
+
+[CS2050, Quality 1/5, Difficulty 5/5, Grade: Drop/Withdrawal] Avoid this professor. Assignments, review material, and practice exams do not match exams, and tests have only 4&#8211;5 questions, miss one and your grade will be already at risks. 4 exams make 84% of the grade, yet practice exams are not helpful. Even TAs often can't help because the material is far more complex and different from the other professors.
+
+[CS4510, Quality 2/5, Difficulty 4/5, Grade: Drop/Withdrawal] This class is the essence of CS in the theoretical and "parlor-math" side. Proofs are relatively easier compared to CS 3510 and discrete, but make sure they're still sharp. Lectures important, OH for the proofs are EXTREMELY important, and reading the textbook for definitions/practice is important too. I messed up with late HWs (21 credits moment).
+
+[CS2050, Quality 1/5, Difficulty 5/5, Grade: Rather not say] Amazing lecturer. However, his exam grading is really strict and a lot of points are taken on simple things. That said you will learn a lot from this class. It tends to get a bit difficult around exam 3 and exam 4. There are 4 exams worth 21 percent each and around 12 homeworks with some of them having a lot of extra credit and weekly quizzes.
+
+[CS2050, Quality 5/5, Difficulty 4/5, Grade: A] Very inspirational.
+
+[CS2050, Quality 5/5, Difficulty 3/5, Grade: A+] Ladha is an excellent lecturer and incredibly helpful and insightful for the right kind of student. If you are well-suited for Computer Science (especially with anything algorithm-heavy), you will thrive in this class. If you find yourself struggling in this class, take it as a sign that CS is not for you.
+
+[CS2050, Quality 4/5, Difficulty 4/5, Grade: A] I enjoyed his class, but he's not for everyone. He can be overwhelming since he talks quickly. I learned a lot from his class, probably the most of any class I've taken. If you're willing to put in the work, he's a great option. Would be nice if he had short breaks during class though. Recitation and plus sessions are super helpful, esp before exam
+
+[CS2050, Quality 5/5, Difficulty 3/5, Grade: A] He is the best option. Those complaining lack skills.
+
+[CS2050, Quality 1/5, Difficulty 5/5, Grade: A] He talks about class content for around 20 minutes each lecture and goes off on tangents for the rest of the class. The class is almost fully test-based, and each test has like 4 questions that are worth 25% each. He was happy about a 40% class average on a midterm for the 75% of the class that didn't get a 100. Don't take this guy.
+
+[CS2050, Quality 5/5, Difficulty 4/5, Grade: A] The exams take a while to get used to, but are doable if you pay attention to lectures. All lectures are on YouTube, so coming to class is very optional. Definitely a learning curve in general, but nothing too extreme. Lectures are clear and concise, tests are difficult but not impossible, and homeworks are time consuming.
+
+[CS2050, Quality 2/5, Difficulty 4/5, Grade: B-] Tests are hard, but he's fair
+
+[CS2050, Quality 1/5, Difficulty 5/5, Grade: C] Exams are very difficult.
+
+[CS2050, Quality 5/5, Difficulty 3/5] Ladha was appointed by Allah (Subhanahu wa ta'ala) to serve and spread light unto the students of Georgia Tech. During every lecture, you will certainly feel a divine presence. O' Allah, lead the disbelievers to the truth and they will accept Ladha (PBUH) as their prophet.
+
+[CS2050, Quality 2/5, Difficulty 5/5, Grade: B] ladha is a terrible teacher. his intelligence and mastery of discrete is heavily undercut by his arrogance. his grading is arbitrary at best. his exams are extremely long and difficult, with about ~85% of the class still writing when time called on every exam.
+
+homework takes more than 8 hours a week and doesn't prepare you for the exam at all.
+
+[CS2050, Quality 2/5, Difficulty 5/5, Grade: C] Tests are hard and the partial credit is unforgiving. Lectures are alright. If you're prepared to spend 6+ hours per week on the weekly homework, quiz, and staying locked, you can get a B or above. Just be prepared for a terrible time with TA's, the professor, and in general. Ladha should absolutely be your last choice.
+
+[CS2050, Quality 1/5, Difficulty 5/5] worst class ever. don't even consider just take someone else. he clearly cannot take criticism either. either he or his tas write their own positive reviews and get negative ones taken down. you can tell the positive reviews are super short and lack nuance, unlike the negative reviews. i don't know how he still has a job at gt. avoid.
+
+[CS2050, Quality 2/5, Difficulty 5/5, Grade: B] This is a decently difficult class. He is decent at lecturing, although he moves EXTREMELY quick. Tests are extremely difficult and often nothing like the practice tests, and he tries to fear monger by saying that if you use AI for help, you're cooked - which I don't believe is true. I and anyone probably could have got an A if I tried hard enough.
+
+[CS3510, Quality 5/5, Difficulty 3/5, Grade: A+] You can definitely learn a lot from Ladha's class. It's true that people can get lost in the lectures without prior knowledge of the content. He is highly accessible. The course is test-heavy, you'll find some exam questions very similar to practice exams or homework, while the rest are of medium difficulty problems in Leetcode.
+
+[CS2050, Quality 4/5, Difficulty 5/5, Grade: C] If there was not a grade associated with this class, it would without a doubt be my favorite class I've ever taken. Ladha is a great lecturer, and the subject matter is extremely fascinating. The tests are just so. Damn. Hard. And difficult to prepare for. Sometimes studying can feel futile and impossible, but it's fun at the same time. Duality.
+
+[CS2050, Quality 1/5, Difficulty 5/5, Grade: B] His lectures are actually somewhat interesting. But other than that this class stinks. The homework assignments would take me and my friends several hours each week, and are most of the time just overkill and don't prepare you for the test at all. The stuff he gives you to study for the exams are just stupidly hard compared to the exam.
+
+[CS2050, Quality 5/5, Difficulty 3/5, Grade: A] Great instructor. Hands down the best one for this class.
+
+[CS2050, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] Absolutely horrible. I legitimately think the TA's write the the 5.0 ratings
+
+[CS2050, Quality 5/5, Difficulty 4/5, Grade: A] super passionate lecturer, great if you are genuinely curious about the class. not too hard either, if you go to lecture and actively participate. his textbook and lecture videos make it easy to make up class if you fall behind as well. overall very nice and understanding professor.

@@ -1,0 +1,59 @@
+Professor: Mark Moss
+Course: CS2110
+School: Georgia Institute of Technology
+Department: Computer Science
+Avg Rating: 4.1 / 5
+Avg Difficulty: 2.6 / 5
+Num Ratings: 100
+---
+[CS2110, Quality 5/5, Difficulty 1/5, Grade: A] The type of professor that makes you fall in love with computer science. Dr. Moss was easily the best CS professor that I have ever taken. Clear structure, hilarious lectures, and intriguing material. The TA's as well, always comforting and helpful. It's classes like these that remind you why you came to GT. And this is not a troll post, seriously.
+
+[CS1332, Quality 4/5, Difficulty 3/5] Clear lectures, fair exams.
+
+[CS2110, Quality 5/5, Difficulty 2/5, Grade: A] Lectures are recorded online, so attendance isn't mandatory, but it is mandatory for labs. I would say watch the online lectures since they give you an understanding of why a concept works the way it does and allow you to build intuition. Overall, a great professor and take him if you want to understand systems.
+
+[CS2110, Quality 4/5, Difficulty 4/5, Grade: Not sure yet] If you wanna do good in this class, I'd really recommend going to the labs, and you'll have to anyway as they're a requirement in the syllabus. Also start the projects early. The first project is really annoying so make sure you start early on at least that one. Lectures aren't really too important, labs I'd say is where you learn the material.
+
+[CS2110, Quality 4/5, Difficulty 2/5, Grade: Not sure yet] Class is split up into 2 lectures and 2 labs every week, with lab attendance being mandatory. I personally enjoyed Moss's lectures, although he could definitely take a while to get tot he point. Would say where Moss is really helpful is during office hours, which he's easily accessible for. But since lab does get ahead of lecture, TA's matter.
+
+[CS2110, Quality 4/5, Difficulty 3/5, Grade: Not sure yet] You learn most of the content in your lab so hope you have good TAs. Moss was very engaging in the lectures but could sometimes make the most random analogies when teaching content. Lots of projects, exams were a bit rough near the end as we had 2 exams, 2 quizzes, homework and a project due in the span of 2 weeks. Interesting course tho
+
+[CS2110, Quality 3/5, Difficulty 2/5, Grade: A] class is entirely dependent on ur TAs and its pretty hit or miss. i recommend scoping out ur TAs first week and then switching sections if needed. moss lowk isn't great at lecturing since he takes a long time to get to a point and makes confusing connections. i stopped going and just read the textbook. relatively low difficulty till assembly unit.
+
+[CS2110, Quality 3/5, Difficulty 2/5, Grade: A] class is heavily dependent on how good ur TAs are and thats completely hit or miss. i recommend scoping out ur TA in the first week then switching sections if needed. mark is lowk not a good lecturer since he takes a long time to get to his point and sometimes makes confusing connections. i just started reading the textbook and skipped lectures
+
+[CS2110, Quality 4/5, Difficulty 4/5, Grade: Not sure yet] Moss is a very good lecturer, it does take him a bit to get to the point sometimes but he's very enthusiastic and engaging with what he teaches. He also posts all his lectures to Canvas. Labs were essentially just mandatory recitations were never on-pace with the course (as in they were almost always ahead), making them a drag to go to biweekly.
+
+[CS2110, Quality 3/5, Difficulty 2/5, Grade: Not sure yet] overall he's a kind and chill teacher. he does have a hard time getting to the point in his lectures but other than that he's a great prof. unfortunately, i got the worst TAs possible which makes the class more challenging than it was supposed to be. they're incredibly unhelpful, rude, and straight up ruins the class. other than that good prof
+
+[CS2110, Quality 4/5, Difficulty 2/5, Grade: A] CS2110 has been my favorite class I've taken at tech so far. I think the course is designed very well and you have a lot of resources to get help. Moss himself is really nice, but his lectures are a bit long winded and he does tend to go on rants sometimes about only adjacently related topics.
+
+[CS2110, Quality 5/5, Difficulty 3/5, Grade: A] Great lecturer, answers questions, and generally just knows what he's talking about. Uses Microsoft Whiteboard, which I prefer over PPT. 
+
+In fall 2025, the class was project-heavy (45% of grade), but you're guaranteed 100% on projects if you keep up with the content and work hard.
+
+[CS2110, Quality 5/5, Difficulty 2/5, Grade: Not sure yet] He's a great lecturer, breaking things down simply and traces through examples. The hardest part is unfamiliar content, but review and find a TA during OHs for project help early and you'll be set. I'm taking him in the fall with projects weighing ~60% of your total grade, so you can afford to struggle with the quizzes like I did.
+
+[CS2110, Quality 5/5, Difficulty 3/5, Grade: C] Such a great lecturer; really cares about his students. Lecture is important but lab is even more important, so keep going to lab if you want to do well on your projects in this class. For preparing for quizzes, you're better off reviewing project work and homework.
+
+[CS2110, Quality 4/5, Difficulty 3/5, Grade: Not sure yet] Moss lowkey does too much in his lectures but clearly cares for students/the subject. TA labs are very helpful and most people would just go to those if attendance wasn't mandatory for lectures. Projects are light and quizzes can be slightly difficult but honestly are not that bad.
+
+[CS2110, Quality 3/5, Difficulty 3/5, Grade: Not sure yet] Honestly, I am just dropping a rating here for the TAs. Moss is such a boring lecturer in my opinion (have zoned out in basically EVERY lecture), but the TAs make it all worth it. I would genuinely describe office hours as a religious experience. I have learned weeks of content within just a few hours!!
+
+[CS6310, Quality 1/5, Difficulty 5/5, Grade: B+] Easily the worst OMSCS professor I've had the displeasure of working with. Not accommodating, very unreasonable, would not recommend taking a course under his instruction.
+
+[CS2110, Quality 4/5, Difficulty 3/5, Grade: B] Good professor. Class was not easy, but it was project-based for fall 2024 session. Lots of projects, had a final as well. Just go to lectures and focus.
+
+[CS2110, Quality 5/5, Difficulty 3/5, Grade: A] Professor Moss was a good lecturer for what can easily be a very boring and difficult subject. Homework can sometimes take a long time, so start early, but he did his best to keep our class engaged in his lectures.
+
+[CS2110, Quality 4/5, Difficulty 4/5, Grade: A] Moss is a good lecturer that understands and cares about the material, but I found that he wasn't the most engaging; the last half of the semester I just watched Forsyth's recorded lectures instead. Moss was always very available and adept when I asked him followup Qs after class. I like the 2110 Quiz/TL format better than a couple midterms.
+
+[CS4400, Quality 4/5, Difficulty 2/5, Grade: A] Very caring and respectable professor - downside was that lectures weren't that engaging.
+
+[CS2110, Quality 2/5, Difficulty 3/5, Grade: A] Don't get me wrong you can tell he's passionate about what he teaches, but I found his lectures to be incredibly boring. It lacks a lot of depth and he often goes over things not ever covered in the quizzes. I stopped going to lecture and solely learned everything from lab/textbook. As long as you do those two things, you should get at least a B
+
+[CS2110, Quality 5/5, Difficulty 3/5, Grade: A] I;m an ME major minoring in CS. This is a hard class, but Moss does an excellent job teaching it. This is my favorite class I've taken so far. You cover so much content, but his lectures make it very digestable, and they are very relevant to the exams and homework.Would reccomend to everyone
+
+[CS2110, Quality 3/5, Difficulty 2/5, Grade: Not sure yet] Lectures were alright. It doesn't go as much in depth, but it's still pretty important to go as sort of a direction. Labs are where it's mostly at. Do NOT fall behind, as they cover a lot of material. I was behind 1 lecture and it took me almost a week to get back up to speed. Homeworks were really interesting and online lectures vids HELP A TON!
+
+[CS4400, Quality 2/5, Difficulty 3/5, Grade: A] Professor Moss is a decent engaging professor, but he makes really simple concepts seem confusing and difficult with how he explains them. His notes system is atrocious and makes learning more difficult as he spreads his notes throughout Canvas modules instead of just using files. It's hard to retain the things you learn in this class.

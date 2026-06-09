@@ -1,0 +1,59 @@
+Professor: Aibek Musaev
+Course: cs1331
+School: Georgia Institute of Technology
+Department: Computer Science
+Avg Rating: 2.4 / 5
+Avg Difficulty: 2.8 / 5
+Num Ratings: 167
+---
+[CS2316, Quality 2/5, Difficulty 4/5, Grade: Not sure yet] Most explanations were way too dense and the class felt more like self-study than an actual class. Interesting class but definitely got put off the content by the sheer amount of lecture material dumped every week.
+
+[CS2316, Quality 3/5, Difficulty 3/5, Grade: A] Nice guy who was always willing to help, but just reads off slides in lecture, so explanations are not that great. The lectures he "made" were clearly AI and don't really line up with the HW and Exams. TA's are great though and carry this class, making the HW, Exams, and Project which I thought were all good.
+
+[CS2316, Quality 4/5, Difficulty 2/5, Grade: A-] His lectures were interesting, and he is super sweet. The TAs are fine... office hours just get busy, and they also cancel a lot. The tests are not bad if you study, you will have to get review content on your own because he goes pretty fast. A ton of resources tho so its honestly not hard class. Make sure to lock in on project, helps grade a lot.
+
+[CS2316, Quality 2/5, Difficulty 4/5, Grade: A+] Had an unfortunate experience in this class which put me in a really bad headspace.
+
+[CS2316, Quality 2/5, Difficulty 4/5, Grade: A+] fast paced class. it was like doing multiplication at the kitchen table with my dad but with coding and it's no longer socially acceptable to cry or not understand what's going on. luckily i like cs but others&#8230; goodluck! also didnt feel like the TAs and professor were on the same page half the time
+
+[CS2316, Quality 1/5, Difficulty 4/5, Grade: Incomplete] He does not teach. He speed-reads a slide show and then hopes you get it in time to do a coding problem at the end of class. The TA's for this class are also not nice, which makes it hard.
+
+[CS2316, Quality 5/5, Difficulty 3/5, Grade: A+] goated TAs
+
+[CS2316, Quality 1/5, Difficulty 3/5, Grade: Not sure yet] decent prof, not so decent (or nice) TAs.
+
+[cs1331, Quality 3/5, Difficulty 2/5, Grade: A+] Pretty average professor and class. Lectures are basically reading off of the sides so most people don't attend them anyways. However, it seems that Prof. Musaev does care about teaching and is happy to answer questions. Offers a break during lecture which is nice. Would only recommend taking this class for CS1331 if you already know Java.
+
+[CS1100, Quality 5/5, Difficulty 1/5, Grade: A] He taught 1100 like it should be. He set up valuable sessions with gt alum and faculty that delivered valuable info for a first year. Not too much work outside class. dont stress if you have him for 1100
+
+[CS1100, Quality 2/5, Difficulty 2/5] CS 1100 is a fairly pointless and annoying class. Professor Musaev does not really do anything other than introduce the speaker each week, except for the one time he tried to demo an agentic workflow and it didn't work. The homework each week is usually pointlessly long, but they are not graded harshly at all.
+
+[cs1331, Quality 2/5, Difficulty 3/5, Grade: B] There were multiple lectures where he would just sit and code on the projector, but he went so fast that it was difficult to understand or replicate. It's not too hard of a class and the homeworks aren't too bad, but I found that the lectures weren't helpful at all.
+
+[cs1331, Quality 3/5, Difficulty 3/5, Grade: B] I think a lot of the reviews for Prof. Musaev are overly negative, but I can understand where they're coming from. He's a decent lecturer, but neither lecture nor recitation are super informative. HWs get difficult, but they're only 1/wk. Seek help on Ed or by talking to classmates/TAs if you're stuck; they can explain in much better detail.
+
+[cs1331, Quality 4/5, Difficulty 2/5, Grade: A] he was nowhere near as bad as these reviews made him out to be. the midterms/exam were made by ta's and were pretty straightforward often asking multiple questions on the same kind of edge cases. lectures were optional and the slides/recitations were what mattered. what i didn't like was that homoworks took forever and tests made/broke your grade.
+
+[cs1331, Quality 2/5, Difficulty 1/5, Grade: A] Clearly cares about the subject, but lectures are dry and long. If you know how to make projects in Java, lecture is not necessary. A good performance in AP CS A is enough to do well in this class, plus a bit of studying the content later in the semester. 40% final though.
+
+[cs1331, Quality 4/5, Difficulty 2/5, Grade: A] The 3 exams and the final were all easier than I expected. Participation is not mandatory but he did sometimes hint at what could be on an upcoming exam and went over live demos so I'd go, or at least look at the slides and posted code. Recitation and the TAs were super helpful, and Musaev himself is pretty passionate and willing to help as well.
+
+[cs1331, Quality 5/5, Difficulty 1/5, Grade: A-] Amazing Professor! Attending lectures was not difficult, I don't know what everyone is talking about.
+
+[cs1331, Quality 2/5, Difficulty 5/5, Grade: A-] First, the good: He was very forgiving with the grades, offering extra credit on exams, and dropped like your 7 lowest assignments. Now, the bad: if you have no coding experience outside of 1301, you're cooked. In the lectures he codes and debugs really fast, but doesn't actually teach. The weekly homeworks could take 8 hours, and they never stop.
+
+[cs1331, Quality 2/5, Difficulty 2/5, Grade: A] I attended lectures for the first month and a half, as I didn't feel I was learning from his teaching style. He mostly read from slides and coded exercises without clearly explaining the concepts, which made it hard to stay engaged. However, CS 1331 is manageable with prior Java experience, and the recitations were helpful, especially before exams.
+
+[CS1100, Quality 3/5, Difficulty 1/5, Grade: Audit/No Grade] Musaev just sits back on a chair lol. The class is free if you show up, but the one time Musaev tried to actually teach us how to use Agentic Workflows, he stalled for 5 minutes and ended up using all his Claude tokens anyways, so we didn't learn anything personally from him!
+
+[CS1100, Quality 2/5, Difficulty 2/5, Grade: A] Lectures were mandatory (if you missed 5 or more, you fail) and not that helpful to succeed in CS. Homework was long, unhelpful, and always required us to share documents.
+
+[cs1331, Quality 4/5, Difficulty 3/5, Grade: A] I didn't go to half the lectures, but when I did, we'd usually go over some live demo, which was a breath of fresh air compared to lecture slides. Class is pretty well run, and I really liked the coding homework as it helped me learn a lot. Recitation slides were the most helpful study resource out of anything in this course.
+
+[cs1331, Quality 2/5, Difficulty 2/5, Grade: A+] if u generally knew what u were doing and did hws, all the exams were pretty easy imo. lectures were pretty boring + i never paid attention, but he seems like an ok dude. i learned from the internet and recitations, which were helpful. participation quizzes were annoying but there's unlimited attempts and they were helpful in recapping lectures
+
+[cs1331, Quality 3/5, Difficulty 3/5, Grade: A+] If you go to lecture and attend recitations/PLUS sessions, probably end with an A. Exams 1 and 2 are easy if you took CSA. Exams 3 is slightly and Final (38% grade) is much harder. Take him cause he provides lecture slides. Think he scales final but he releases grades last day and doesn't show final on Gradescope so little annoying. Decent overall.
+
+[cs1331, Quality 2/5, Difficulty 1/5, Grade: A] I took this instead of just cheesing the advanced standing exam. this class is for the gatech LCD that got in without knowing any programming languages. boring waste of time.
+
+if you can't pass 1331 ase you probably don't belong in gtcs. do not take this class.

@@ -1,0 +1,60 @@
+Professor: Rodrigo Borela
+Course: CS1301
+School: Georgia Institute of Technology
+Department: Computer Science
+Avg Rating: 4.6 / 5
+Avg Difficulty: 2.5 / 5
+Num Ratings: 84
+---
+[CS1301, Quality 5/5, Difficulty 3/5, Grade: A] I had literally no coding experience before going into class but found is really manageable. Lectures are recorded, so you don't have to go to class. I would recommend going to recitation and doing practice exams. Also there's like 2 points of extra credit added onto your grade at the end.
+
+[CS1301, Quality 5/5, Difficulty 2/5, Grade: A+] Very good lecturer! I can't emphasize enough how he is able to properly teach python in a way most can understand well. There are plenty of practice exams to get you through the tests and the homework helps a lot with them as well. The hardest part was figuring out how to do the webdev/robotics labs.
+
+[CS1301, Quality 5/5, Difficulty 3/5, Grade: A+] Although the course material itself was difficult, the lectures were very thorough. Attendance not mandatory, but sitting through lectures really helped a lot on the tests. TAs were all very knowledgeable and he was very approachable if you had any questions. Tests can be difficult but past exams were very similar. Very sweet!
+
+[CS1301, Quality 5/5, Difficulty 3/5, Grade: A] rod is a great prof. he takes great care in his work, explains things very well, and is always open to questions and making sure you understand certain concepts. the only issue was the tests, which start off very difficult, but generally get easier as you become more CS competent.
+
+[CS1301, Quality 3/5, Difficulty 4/5, Grade: C] I'm gonna preface by saying that I'm not good at CS, Rod was a decent teacher, he was quite passionate and funny and had pretty good lectures. For a GT requirement however, there was a lot of learning you had to do on your own that was not in the lectures, use the online textbook. Make sure you do the homeworks early and look at old exams.
+
+[CS1301, Quality 4/5, Difficulty 3/5, Grade: A] Pretty good teacher!
+I thought that the WebDev Lab was very useless and unrelated to the course content. I had to learn a lot of new, useless Python functions and syntax that aren't popular and used in other courses. 
+The tests got a lot easier as the course progressed. 
+The homeworks were good- make sure to do them!
+
+[CS1301, Quality 5/5, Difficulty 2/5, Grade: A+] Rod is awesome! His lectures are effective and interesting and really helped me to understand the material. He is also always willing to answer questions on homework, labs, etc. before or after lecture. Overall he is a great, caring person and does an amazing job of teaching this class.
+
+[CS1301, Quality 5/5, Difficulty 1/5, Grade: A] very energetic and fun professor. the lectures aren't that difficult to follow and the homework is related to class content. personally, I felt like the lab was unrelated to class and forced me to learn a lot of syntax on my own (web dev track). exams seemed to get easier as the semester went on
+
+[CS1301, Quality 5/5, Difficulty 2/5, Grade: A] Rod is a great lecturer; he makes the concepts super easy to understand. To get a good grade, go to lecture and do all the practice tests. Also, the TAs will be ur best friend in this class, so make sure to go to the helpdesk if you're struggling.
+
+[CS1301, Quality 5/5, Difficulty 1/5, Grade: A] Enjoyable professor with fun lectures. Exams are similar level to the practice exams given by him. Labs were decent but they felt unrelated to the content of the class (was on web dev track). I did take this class already knowing Python, so difficulty level might not be accurate for a true intro class.
+
+[CS1301, Quality 2/5, Difficulty 5/5, Grade: A] CS1301 isn't a real intro. Rod goes way too fast. Labs and TAs are awful. Never take robotics. They claim it's easier but it's hell, with async topics that don't belong in an intro. No lab help, TA helpdesk is slow and rude. Grading is sloppy, robots are disorganized. This class made me cry. Never again, made me reconsider my major as an EE.
+
+[CS1301, Quality 5/5, Difficulty 2/5, Grade: A] I LOVE ROD SO MUCH. Great professor. Even as someone with no coding experience before the very first day of class, he made the content very digestable and simple. Definetly take him.
+
+[CS1301, Quality 5/5, Difficulty 3/5, Grade: A] I really enjoyed this class! It is difficult to adjust to at first, but once you get into the swing of things it becomes more and more manageable. Make sure to utilize your resources in this class! There are so many opportunities to go to plus sessions or reach out to TAs, and it is totally worth it!
+
+[CS1301, Quality 5/5, Difficulty 2/5, Grade: A] Rod is great. He's super funny, makes the lectures interesting, and codes with you instead of just talking and having you take notes the entire time. He is really easy to get help from and great at explaining how and why certain code does different things. Rod is the goat.
+
+[CS1301, Quality 5/5, Difficulty 4/5, Grade: Not sure yet] During lectures, he codes along with students for notes and has mini quizzes, which I found very helpful.
+
+[CS1301, Quality 5/5, Difficulty 2/5, Grade: A] Rod was hands down one of the best teachers for 1301. He explained concepts really well and would explain it in different ways if someone didnt understand. The tests were really easy, just make sure to do the practice exams posted on Canvas.
+
+[CS1301, Quality 5/5, Difficulty 2/5, Grade: A] Rod is so kind and really cares about all of his students! The nature of 1301 can make it difficult to get TA help in office hours, but Rod was always available to help out. There is a good bit of homework outside of class, but really helps you prepare for exams. He wants you to succeed, so contact him if you ever need it!
+
+[CS1301, Quality 5/5, Difficulty 3/5, Grade: A] This class comes with a lot of work - but Rod made the concepts digestable and made the 8am worth it. The homework and labs were tedious, but they definetly help you learn and cushion your grade. I also never got A's on the midterms, but got one on the final - his TAs and recitations are great too.
+
+[CS1301, Quality 5/5, Difficulty 1/5, Grade: A] What an amazing professor and an ICON!!!!! Great guy, makes everything very digestible and less overwhelming. Amazing TA team as well. THANK YOU ROD!
+
+[CS1301, Quality 5/5, Difficulty 2/5] I came in with 0 CS knowledge, and I feel like I've learned a lot thanks to Rod! He explains topics very clearly and slowly so that it is easy to understand! Some of the homework and labs were hard but it was helpful going to the helpdesk. I also recommend taking all the practice exams to study for the actual exams!
+
+[CS1301, Quality 5/5, Difficulty 2/5, Grade: A] For an introduction class, it was very fun. There is a weekly homework and around bi-weekly lab due, but everything's done on your own time away from lecture. The lectures are very straightforward and, if you like Python, rather easy to understand. Mr. Rod's a great professor to have regardless though and all the TAs are so nice.
+
+[CS1301, Quality 5/5, Difficulty 3/5] Great professor. Interesting lectures. Maybe I'm just bad at coding, but for this class, you MUST lock in. Go to every lecture. Go to recitation. Office hours were so bad because they never had enough TAs for everyone. Sometimes I'd wait hours during office hours for a TA to help me.
+
+[CS1301, Quality 5/5, Difficulty 3/5, Grade: A] He was a great professor! The class was difficult in the beginning as someone with no coding experience, but I ended up doing well in the class.
+
+[CS1301, Quality 5/5, Difficulty 4/5, Grade: A] Rod managed to make his lectures entertaining and highly informative. I failed the first exam only because I didn't know how to study for the class. Doing all of the past practice exams and attending all the lectures will set you up for success. I was able to end with an A after learning how the class was structured. Also attend recitation!
+
+[CS1301, Quality 5/5, Difficulty 3/5, Grade: A] Rod is a really nice and approachable professor. He was very good at explaining the beginner CS concepts in the course, and we coded alongside him in lecture. However the course is really fast paced and important to keep up with (at least for a newbie to python and CS). You should make sure to work on the homeworks early.

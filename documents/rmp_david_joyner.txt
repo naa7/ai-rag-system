@@ -1,0 +1,57 @@
+Professor: David Joyner
+Course: CS1301
+School: Georgia Institute of Technology
+Department: Computer Science
+Avg Rating: 4.2 / 5
+Avg Difficulty: 2.9 / 5
+Num Ratings: 186
+---
+[CS1301, Quality 1/5, Difficulty 5/5, Grade: B+] In my experience, this professor was rarely available and seemed overwhelmed by the number of courses he was teaching. The exams were extremely difficult, and the TAs handled most of the teaching and student support. I would not recommend taking this class if you have other options. He's barely a professor at that point.
+
+[CS1301, Quality 1/5, Difficulty 3/5, Grade: B] Do not take this course without prior Python experience.
+
+[CS1301, Quality 2/5, Difficulty 4/5, Grade: B] It is hard to rate Professor Joyner as he is extremely inaccessible. The professor rating is largely for the ta's who handle most of the interactions with students, and they were quite unorganized and ineffective I would say. I think this is just the issue of letting ta's run a very large, mandatory class. Also yes the course is just hard.
+
+[CS1301, Quality 1/5, Difficulty 5/5, Grade: B] Super hard for an intro course. For something as hard as this, I'm surprised they STILL have a professor teaching it that is so unavailable, doesn't meet in person, and does not give ANY leeway whatsoever. Pls just do the in-person for your own sake
+
+[CS1301, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] just too hard of an intro cs class. prof is COMPLETELY unavailable, it's an async course. just learn python on your own or choose a different section, please.
+
+[CS1301, Quality 1/5, Difficulty 4/5, Grade: Not sure yet] DO NOT TAKE. Such a stressful class for no reason
+
+[CS1301, Quality 1/5, Difficulty 5/5, Grade: A] h0rrRble. way too much hw, very hard tests (all or nothing), just too much for an intro course
+
+[CS1301, Quality 5/5, Difficulty 4/5, Grade: B] Dr. Joyner is a very knowledgeable and caring; he is highly respected at Tech, and it is clear to see why. However, as an online course, the TAs do most of the communicating, and make it very unstructured. Tests are difficult, especially without a CS background. All or nothing, no partial credit. Lots of homework as well.
+
+[CS1301, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] bad prof. and bad TA's. NOT a good class to take. Feels like I was taking a free python online course somewhere. Didn't feel like an actual class with a prof.
+
+[CS1301, Quality 4/5, Difficulty 2/5, Grade: A] The course was very easy, and a week's worth of material could be done in about 3 hours. The homework can be a touch long, but is nothing compared to CS1331. I breezed through the course, as the tests were straight coding and as long as you did the homework like a human and without AI, it was easy to get a 100 on every test.
+
+[CS1301, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] Please please please be cautious when signing up for this class. If you have a heavy workload, STAY AWAY! This has been my heaviest and most difficult class in high school and I am doing DE Math @ Tech and have taken 12 APs. It is a lot of work.
+
+[CS1301, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] unstructured course. give too much hw for the course it is. tests are not forgiving. All or nothing. Expect you to already have known python before taking course.
+
+[CS1301, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] The professor himself is a very knowledgeable and busy guy. He truly doesnt have time to teach this course. The course is the problem. Its basically run by TA's and I tell you they are really annoying. So just dont take this online course and save yourslef from the stress.
+
+[CS1301, Quality 5/5, Difficulty 5/5, Grade: Not sure yet] Don't take this course. I'd recommend taking the Inperson course. There isn't any communication with the professor everything goes through the TA's! It's not a very helpful course and really difficult exams. Homework is okay but they give way too much for the type of course this is. Save yourself from the stress, choose a different professor.
+
+[CS1301, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] unstructured course. I learned most of the material from an online python course. The class was of zero help. Very disappointed.
+
+[CS1301, Quality 1/5, Difficulty 5/5, Grade: B+] Everything in this class is self learning and the modules don't help at all. You'll need to find your own study materials in order to do well.
+
+[CS1301, Quality 1/5, Difficulty 5/5, Grade: Incomplete] Don't recommend taking this course.
+
+[CS1301, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] The exams in this course are really hard.
+
+[CS1301, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] AVOID. DONT STRESS YOURSELF OUT ITS NOT WORTH IT.
+
+[CS1301, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] Very frustrating class. The workload is excessive, and the exams are extremely difficult, especially since they require perfectly written code with no partial credit. This is tough for students who are new to coding. The grading process also felt unclear at times.
+
+[CS1301, Quality 3/5, Difficulty 4/5, Grade: Not sure yet] If you don't already have knowledge w/ CS this can be a very long and challenging course. Wayyyy too much HW for an intro class, but there is extra credit. The tests are hard because they are all or nothing, so it's easy to get a poor grade if you don't write out the solutions perfectly.
+
+[CS7637, Quality 1/5, Difficulty 3/5] Very low quality of professor.
+
+[CS1301, Quality 5/5, Difficulty 1/5, Grade: A+] The best online course I've ever taken, every video is clearly related to homework and practice.
+
+[CS1301, Quality 3/5, Difficulty 2/5, Grade: A] His online section itself isn't bad at all. He has video lectures that explain most concepts well and understanding is not difficult, but you have to be disciplined and make an effort to try. Homeworks are relatively easy A's but the exams can be difficult (the later in the course, the more difficult the exam). Will round your grade up though.
+
+[CS1301, Quality 5/5, Difficulty 2/5, Grade: A+] Really good.

@@ -1,0 +1,57 @@
+Professor: Melinda McDaniel
+Course: CS4400
+School: Georgia Institute of Technology
+Department: Computer Science
+Avg Rating: 3.5 / 5
+Avg Difficulty: 3.3 / 5
+Num Ratings: 282
+---
+[CS4400, Quality 5/5, Difficulty 2/5, Grade: A+] It is easy to expect what will be on an exam (exam 2 is notoriously hard). She is a great teacher, and honestly cares about what is going on with her students outside of class. She values communication, so make sure to communicate things on time. There are so many resources for the class, and enough practice to really succeed.
+
+[CS4400, Quality 4/5, Difficulty 1/5, Grade: A+] This was not a hard class. There are daily quizzes for class and video lectures to watch for the other day of the week there is class. The exams are very fair and the review material prepares you very well for them. The project is not bad either, some phases take more time than others.
+
+[CS4400, Quality 5/5, Difficulty 2/5, Grade: A] This class is not as "hard" as people have said its gotten. The handouts are extremely helpful and really all you need. The coding can be tough but lecture will not prepare you for it, it is something you must practice on your own. The group projects can be done within a week if group members all work together.
+
+[CS4400, Quality 3/5, Difficulty 3/5, Grade: A] Course design was great, daily-activities and in-person exams (11%) weren't too much of a hit on grade (Substantially more difficult than practice tests and increases difficulty every semester to maintain grade distributions). Lectures are very monotone, but handouts/practice are great. Do those, and you'll get an A. Beware of AI usage in project !
+
+[CS4400, Quality 2/5, Difficulty 5/5, Grade: C] Hybrid Class, Group Project worth 40% of grade (3 Parts), 3 Midterms (11% Each), Final worth 20%, and 7% In-Class Attendance Quizzes. Luckily there is no homework, but study because the tests and project are all quite difficult. Melinda doesn't seem the most knowledgeable about SQL. The TAs know more but some are bad and condescending. Uma is good.
+
+[CS4400, Quality 3/5, Difficulty 3/5, Grade: A] The class is manageable if you have a solid project group and utilize the practice exams. The exam difficulty has increased recently, and the lectures can feel a bit dry. Focus your studying on the coding portions and make sure to prepare a very thorough crib sheet for the tests!
+
+[CS4400, Quality 4/5, Difficulty 4/5, Grade: A] Class is well organized, lectures are decent. Project isn't too bad if you have a good group and go to OH. Exams 1 and 3 were very reasonable, but exam 2 and the final felt really long and difficult. Definitely don't take the class lightly but if you stay on top of everything and practice a lot you can definitely get an A.
+
+[CS4400, Quality 4/5, Difficulty 5/5, Grade: A] She didn't seem to be a master of SQL but knew what she needed to. Her lectures weren't super helpful but you had to go for quizzes. Tests don't define the class, I got a 61 on the 2nd exam and still ended with an A. (91 on the 1st. 91.6 on the second and 97 on the final) Nothing will prepare you for the second exam. TAs liked making things hard.
+
+[CS4400, Quality 4/5, Difficulty 4/5, Grade: B] Honestly don't think this semester class was too bad. The overall class is based on tests, daily participation quizzes, and the project. As long as you have a good team, the project is not too bad. To me, the tests did not seem too bad except for the coding parts for the later exams. I think its a lot of content so make sure you keep up.
+
+[CS4400, Quality 2/5, Difficulty 3/5, Grade: A+] Both the TAs and the professor frequently make mistakes and get confused when explaining content. Group project heavy, so make sure you get a good group. Tests were more difficult than previous years. Many students complain about the difficulty of the sql coding portion, however with proper preparation (not cramming last minute) it isn't too bad.
+
+[CS4400, Quality 1/5, Difficulty 5/5, Grade: B] This semester or absolutely in shambles. Gives the most absurd test for exam 2, project grading criteria was horrible. All the TA's really cared about was who used AI, even though they use it themselves for content, occasionally accusing ppl even without definitive proof. Final exam for section b was pretty difficult, on top of no internet.
+
+[CS4400, Quality 1/5, Difficulty 4/5, Grade: Not sure yet] the final exam was soo chaotic, for our section the internet was sooo slow. i lost so much time during the coding part of the exam and even if they gave extra 10 mins, it still wasn't enough to make up for the amount of time i lost waiting for the test to even load. I asked for extra time but she didn't give me any which is so unfair.
+
+[CS4400, Quality 2/5, Difficulty 4/5, Grade: B] There is a lot of practice for this course, but it seems to be AI generated often times. They should clearly have an AI acknowledgement where they at least are transparent about it. Exam 2 was extremely harder than the other exams. The project is easy given you don't have bots for teammates.
+
+[CS4400, Quality 1/5, Difficulty 5/5, Grade: Rather not say] Forever grateful to the TAs because without them I would have had a very lonely semester...because they screwed me every chance they got. I can't with these people. I hope I pass because I don't ever want to try to print output statements from page long SQL functions where they DECREASE THE FONT SIZE SO THE ENTIRE THING COULD FIT ON ONE PAGE
+
+[CS4400, Quality 1/5, Difficulty 5/5, Grade: B+] The professor is sweet but that's it. The class is ran by TA's who fight AI by having AI generated material. The exams are significantly harder then previous semesters despite being gaslit by the entire teaching staff that the averages are comparable and that makes it okay! The TA's during office hours often gave contradicting information.
+
+[CS4400, Quality 2/5, Difficulty 5/5, Grade: Not sure yet] Way harder than I expected as a 4th year CS major. Exams are all time-crunch oriented which seems like a bad way to test knowledge. Group project is alright. They grandstand on how unacceptable AI use is in a 4000 level course but accidentally released course content that had the phrase "Actually, let me reconsider" in it. Would avoid this class
+
+[CS4400, Quality 1/5, Difficulty 5/5, Grade: C] the tests are actually impossible. you get these long and complex questions that are time consuming but you get little to no time to answer them, the only way to answer all of the questions on the written portion of the exam is to straight up guess, you dont have time to think. and absolutely nothing will prepare you for the coding portion.
+
+[CS4400, Quality 1/5, Difficulty 5/5, Grade: C] the other reviews aren't lying about the tests and how she lectures. im here to warn you about the group projects. for the love of god please already come into the class with a trusted group or at least try to find people with brains. you'd think since we go to GT the people here cant be THAT dumb, but THEY ARE!!!!
+
+[CS4400, Quality 2/5, Difficulty 4/5] The TAs genuinely run the whole class. She tends to mutter and race through the lectures and half the time none of the students dont even understand. It's not the TAs' faults at all. Please structure this course better with a new professor because the topics are actually interesting. She always tries to scare us about grades etc as well.
+
+[CS4400, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] It's just a disaster.
+
+[CS4400, Quality 2/5, Difficulty 5/5, Grade: B-] The tests this semester are made so hard for no reason, even though the class is being gaslit into thinking it's not as hard. They say project scores are higher than the exam scores, thus students must have used AI, even though the project is easy and takes 2 weeks while the exam is hard and given 35 minutes to code hard solutions.
+
+[CS4400, Quality 1/5, Difficulty 5/5] The TAs who created the test have written the exams to be much harder than in prior years. I would love to see the professor take the same exams because she is so incompetent that she would not be able to finish them. It is clear she does not look over the exams at all because the difficulty is exponentially more difficult than any practice given.
+
+[CS4400, Quality 1/5, Difficulty 5/5, Grade: Rather not say] They declared war on AI by declaring war on us.
+
+[CS4400, Quality 3/5, Difficulty 4/5] Tests this semester were considerably more difficult than previous sessions, and the system for coding - Honorlock - was downright horrendous. Projects are fun, but the some of the TAs seemed far less than competent, while a handful of other most likely enjoy making coding exams difficult to torture GT's already mentally struggling student body.
+
+[CS4400, Quality 1/5, Difficulty 5/5, Grade: Not sure yet] I did everything right including doing every single practice as well as all the past papers and coding exams, getting near 100s in all of them under time pressure. I am convinced that the TA that made the exams this semester must have gotten their heart broken by someone in the class right now because they doubled the difficulty for no reason.

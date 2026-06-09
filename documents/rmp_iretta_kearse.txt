@@ -1,0 +1,57 @@
+Professor: Iretta Kearse
+Course: CS1301
+School: Georgia Institute of Technology
+Department: Computer Science
+Avg Rating: 1.4 / 5
+Avg Difficulty: 3.3 / 5
+Num Ratings: 104
+---
+[CS1315, Quality 2/5, Difficulty 3/5, Grade: A+] Professor Kearse is actually a very nice woman in terms of attitude, however I will say that I struggled to learn much of anything from her lecture slides. The best thing to do is to go to recitation because the TAs are so helpful and were the only reason I got a good grade in the class. Also start on the homework really early
+
+[CS1315, Quality 1/5, Difficulty 3/5, Grade: A+] Fairly easy class. You need to study it on your own because the lectures are not very helpful. Pretty easy to learn, takes at most 2 hours a week if you skip the lectures. I only showed up on quiz days and went to recitation every week. Go to recitation, the TAs are great.
+
+[CS1301, Quality 1/5, Difficulty 5/5, Grade: B] If you take this class, remember to breathe when it goes in.
+
+[CS1301, Quality 1/5, Difficulty 2/5, Grade: A+] So you can no longer not attend the 8am and self learn, she made the mini quizzes only accessible to those who attend her lectures...Her lectures are pointless, she brushes over actually important points, if you depend on her you will fail.
+
+[CS1315, Quality 1/5, Difficulty 4/5, Grade: A] If you ever have another option, please don't take her class. And if you don't, just take it another semester, LIFE IS NOT THAT DEEP. I honestly dont even k why she was hired in the first place, Let's just say she's not very good at explaining the material she teaches. All I can say is thank you to the TA for all the amazing work they did for her.
+
+[CS1301, Quality 1/5, Difficulty 5/5, Grade: Rather not say] Just take CS1301 over the summer if you can't get a spot, lectures does not help, vague powerpoint, irrelevant examples, not accessible for question, her answers confuses student more(by making references to overly complicated topics), basically all self learn. A sweet person tho(?) she tells students to stay hydrated...
+
+[CS1301, Quality 1/5, Difficulty 1/5] She acts like she is being tortured when she teaches.
+
+[CS1301, Quality 1/5, Difficulty 1/5] She doesn't know the content.
+
+[CS1315, Quality 2/5, Difficulty 3/5, Grade: A] While attendance is "mandatory" with daily reality checks, I would highly suggest just not ever showing up and only going to recitation. It's not worth it to wake up for an 8 am class when you'll end up learning more by going to office hours and recitation. Heavily relies on (the wonderful) TAs to actually teach.
+
+[CS1301, Quality 2/5, Difficulty 3/5, Grade: A] While Kearse is not the best, you will do fine in her class if you do the work. TA's create all hw and exams, and grade them as well. Do not do the robotics lab, as you will struggle to reserve a robot and most TA's don't have experience with them to help you out. Labs and the final have extra credit.
+
+[CS1301, Quality 5/5, Difficulty 1/5, Grade: A] The GOAT of CS 1301. Immediately switch to her class.
+
+[CS1301, Quality 1/5, Difficulty 5/5, Grade: B+] Firstly, do NOT take the robotics labs. They are unorganized and are beyond the classroom material. Second, the professor is inaccessible outside of class. Her teaching consists of reading outdated slides in a monotone, slow voice, as if reading them out loud makes the material understandable. I learned NOTHING in her class. Take someone else.
+
+[CS1301, Quality 1/5, Difficulty 5/5, Grade: D-] THIS WAS THE HARDEST CLASS I EVER TOOK IN MY LIFE not even because of the content but BECAUSE OF THE TEACHER. The tests are IMPOSSIBLE and she does not teach or explain the concepts properly. Unless you have had cs experience before DO NOT TAKE HER CLASS you WILL FAIL. The only thing that may save your grade is the homework and labs.
+
+[CS1301, Quality 2/5, Difficulty 3/5, Grade: A] I rarely attended lectures since she mostly read directly from the slides. I suggest just learning on your own. The content wasn't hard, but dealing with her was. She rarely responded to emails and made it difficult to succeed. If possible, take a different professor. If you take her, choose the web dev focus over robotics for an easier class.
+
+[CS1301, Quality 1/5, Difficulty 4/5, Grade: A] If she's your only option left, just wait for next semester and choose someone else. She relies too much on the TA's and you usually end up teaching yourself the material.
+
+[CS1315, Quality 3/5, Difficulty 3/5, Grade: A] Nice person unfortunately lectures are not engaging. I learned most of the content through recitation, which is taught by the TAs who are amazing. However, coursework is very doable especially if you do not procrastinate the weekly homework, attend recitation, and review lecture/recitation slides outside of class.
+
+[CS1301, Quality 1/5, Difficulty 3/5, Grade: A] Such a boring class and the professor just reads off the slides. You're better off just skipping and studying on your own.
+
+[CS1301, Quality 2/5, Difficulty 4/5, Grade: B] She isn't even that bad she just isn't good. She's fast paced but I fear this is GT and it's going to be. An A is 100% possible as long as you DO NOT procrastinate. Her TAs are also not good so you're basically teaching yourself. Good luck and take advantage of extra credit on labs.
+
+[CS1301, Quality 5/5, Difficulty 3/5, Grade: A] Doesn't deserve the hate. Very accessible after class for things like coding miniquizzes etc. I hadn't taken any python before and the class was tough at first but eventually doable making use of office hours and whatnot. Best piece of advice (though it doesn't relate to professor Kearse) is avoid the robotics lab track- not worth it at all.
+
+[CS1301, Quality 2/5, Difficulty 3/5, Grade: B+] She's very kind and understanding in office hours. Some of the reviews are a bit dramatic, but understandable. Most topics aren't explained very well and in comparison to other instructor's sections  it was definitely harder. DO NOT SKIP RECITATION the TAs will carry the course. If you want to pass take advantage of their help.
+
+[CS1301, Quality 3/5, Difficulty 2/5, Grade: A] Tests aren't bad and there are a lot of points that are easy to get through homework and projects. Lecture was not really helpful, but she's not as bad of a professor as everyone says. TAs are super helpful for lab and homework errors, but learn the content on your own if you get her.
+
+[CS1301, Quality 3/5, Difficulty 3/5, Grade: A] okay she's not thatt bad. but she's not great. if you ask questions you're not going to get that great of an answer or she'll give you a weird look. her lectures feel more like she's vaguely reviewing content rather than teaching it. i did have an issue with my lab 3 group and she was helpful and efficient with fixing it. just get a different prof.
+
+[CS1315, Quality 3/5, Difficulty 2/5, Grade: A] weekly homeworks and biweekly quizzes. There is daily participation but you don't have to be in class to do it. The content itself is pretty easy and you can learn it on your own, and there is a lot of study materials. I didn't go to recitation very often and I did fine in the class.
+
+[CS1301, Quality 1/5, Difficulty 3/5, Grade: A+] just reads from ppts, doesn't really explain anything, reaches stuff outside syllabus, just confuses u more, will make you wanna die from courseload
+
+[CS1301, Quality 2/5, Difficulty 5/5, Grade: B] I read these reviews at the beginning of the year scared because were so low but lowkey she wasn't that bad (at least not 1.6 star bad). I am just horrible at computer science which is why I didn't end up with the best grade but I would definitely just use the TA's and if you feel like your aren't learning in her lectures, just don't go.

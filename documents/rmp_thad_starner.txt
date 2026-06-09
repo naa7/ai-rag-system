@@ -1,0 +1,71 @@
+Professor: Thad Starner
+Course: CS3600
+School: Georgia Institute of Technology
+Department: Computer Science
+Avg Rating: 2 / 5
+Avg Difficulty: 4.2 / 5
+Num Ratings: 97
+---
+[CS4605, Quality 1/5, Difficulty 1/5, Grade: A] Learned more about Thad than I did about ubiquitous computing. Like dude, we don't want to watch the Google glass ad 60 times. 
+
+On a more serious note, this class will have you doing free labor for random labs.
+
+[CS3600, Quality 1/5, Difficulty 5/5] No grace, no compassion. Wouldn't recommend. Thinks his failed google glass is a gift to humanity.
+
+[CS3600, Quality 1/5, Difficulty 5/5] Threatens students to an extreme degree.
+
+[CS3600, Quality 1/5, Difficulty 5/5] What a joke.
+
+[CS3600, Quality 1/5, Difficulty 5/5] actual bafoon
+
+[CS6601, Quality 1/5, Difficulty 4/5, Grade: B] The class is a great idea, but very poorly executed or taught.  The videos that were made are helpful and the textbook is good, but this class really should be called Unsupervised Learning AI.   There is a ton of supplementary reading material he gives you, but you just need to figure out how to teach yourself!
+
+I spent over 20+ hours per week.
+
+[CS4605, Quality 2/5, Difficulty 3/5, Grade: A+] Lectures were pretty boring and monotonous. Almost no one in class would pay attention and everyone went on their laptops, but attendance wasn't mandatory anyways. Exercises were a little difficult and projects are a lot but the deliverables are reasonable.
+
+[CS3600, Quality 1/5, Difficulty 5/5, Grade: Rather not say] terrible guy, doesn't do anything
+
+[CS3600, Quality 2/5, Difficulty 4/5, Grade: A] Extremely knowledgeable professor but not very nice. Tests were surprisingly difficult. Projects were often pretty difficult and time consuming. Definitely start them very early. Plenty of extra credit was available. Between that and the projects being auto-graded, you could get an A pretty easily with enough time invested.
+
+[CS3600, Quality 1/5, Difficulty 5/5, Grade: A] Prof. Starner is a person who knows many things but doesn't know how to teach them properly to students. The lecture was mostly about him and not the materials. TAs are not very responsive and I don't think they know what they are doing. Most of the materials from this class were self-taught and it was the hardest class I've ever taken.
+
+[CS3600, Quality 1/5, Difficulty 1/5, Grade: A+] Starner is the WORST professor, teacher, whatever, that I have EVER had. From someone who attended most lectures, I can say that I learned more about him than AI, and I am VERY disappointed by how this class was ran. Unresponsive TAs, a terrible teacher, essentially pseudocode-translation homework, and a terrible introduction to AI. Big let down.
+
+[CS3600, Quality 2/5, Difficulty 2/5, Grade: A] I think Thad is just a bad lecturer or never prepares to teach this class.There were no issues with his assignments like last time since he just used Dr. Riedl / Berkekely's, but he is always late to class, always goes on tangents, barely teaches and always very dry. Could be worse, could be better.
+
+[CS3600, Quality 4/5, Difficulty 2/5, Grade: A] Very knowledgeable with course concepts however lectures were a bit all over the place and led to some tangents. Overall a very interesting guy and course, but a tad unorganized and cared a little too much about cheating. Definitely isn't the grad version being taught as a 3000 level anymore!
+
+[CS3600, Quality 3/5, Difficulty 1/5, Grade: A+] This semester the class was really easy, but I legitimately learned nothing in this class. I try and go to lectures but they can be so dry and boring. Also, he's always preaching about not teaching but every single assignment in this class is completely online and copied from berkeley.
+
+[CS3600, Quality 4/5, Difficulty 3/5, Grade: Not sure yet] Ok I know everyone was like he's terrible after that one semester - but no he's not that bad at all. The lectures do tend to overview material too quickly in a sort of hand-wavy unplanned way, so you feel like you haven't gotten much of examples and understanding from lectures, but overall, it's still good. "Projects" aren't too bad.
+
+[CS3600, Quality 2/5, Difficulty 3/5, Grade: A] Starner's lectures definitely aren't carefully planned + executed to optimize understanding of course material, but he is an interesting and passionate person. Overall, there's the vibe of: "I'll give you the basics and go off on tangents about examples from my life and you figure out the rest." Could certainly be better, could be worse.
+
+[CS3600, Quality 1/5, Difficulty 5/5] terrible man.
+
+[CS3600, Quality 1/5, Difficulty 5/5, Grade: B] WORST PROFESSOR EVER. cared more about catching students cheating than teaching to the point that you could not google simple concepts or use textbook without being flagged - with no usable resources provided. was so full of himself and his lectures were recorded conversations rather than real lectures. did not care about us at all.
+
+[CS3600, Quality 1/5, Difficulty 4/5, Grade: A] One of the worst professors I have ever had. I heard him tell a child to go learn something himself instead of teaching content in his own class. Lazily copied content from a grad course without giving credit and then focused on catching "cheaters" instead of actually doing anything himself. We paid for a course and learnt nothing bc of one ego.
+
+[CS3600, Quality 1/5, Difficulty 4/5, Grade: A+] Thad Starner may be a decent human but is a terrible professor. He cared more about catching cheaters than teaching students content. The course was lazily copied from 6601 and no dual credit was given. Further, in a country where students are paying thousands of dollars a course, schools have the responsibility to figure out their business.
+
+[CS3600, Quality 1/5, Difficulty 4/5, Grade: A] This course was lazily copied over from CS 6601. The homeworks were incredibly time consuming because they were intended for graduate students who already have significant experience. Even after cutting out some parts, they were difficult because resources were not relevant. Exams were completely unrelated to homework and highly time-consuming.
+
+[CS3600, Quality 4/5, Difficulty 5/5, Grade: A] Homework could be really hard and time-consuming. While I learned a lot from it, I think some of the expectations set for the students were a bit extreme (i.e undergrads doing grad level work). While it's not necessarily difficult to get an A given you have the time, the time commitment is well beyond 3 credit hours for this course with Thad.
+
+[CS3600, Quality 2/5, Difficulty 4/5, Grade: A] Always feels like he's working against you: difficult/lengthy assignments, TA's don't know the material, exams/hw greatly differ from lectures
+Pros: Receives criticism and feedback well- willing to help out (to an extent)
+Cons: Neurotic about his plagiarism research, cares more about catching cheaters than helping students understand the material
+
+[CS3600, Quality 3/5, Difficulty 3/5, Grade: A] Pros:
+- Amazing homework.
+- Smart prof.
+- Good curriculum.
+Cons:
+- Gradescope submission limit
+- TA's were not very useful.
+- Plagiarism software made me scared to watch a youtube video (makes the lectures and textbook the only thing to help with hw, which makes no sense).
+- Even going in person it feels like an online coursera class.
+
+[CS3600, Quality 1/5, Difficulty 5/5, Grade: A] TAs don't come to office hours & there is no shot the professor will respond to your emails. Not sure why there even needs to be a "teaching team"- just having graders and plagarism checkers will accomplish the same thing. I learned more about Thad's career than AI

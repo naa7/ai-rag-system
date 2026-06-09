@@ -17,7 +17,7 @@ RETRIEVED CHUNKS:
 SOURCES CITED:
   rmp_david_joyner.txt (David Joyner — CS1301), rmp_ronnie_howard.txt (Ronnie Howard — CS2050), rmp_frederic_faulkner.txt (Frederic Faulkner — CS1332), rmp_aibek_musaev.txt (Aibek Musaev — cs1331)
 
-ACCURACY JUDGMENT: ____ (accurate / partially accurate / inaccurate)
+ACCURACY JUDGMENT: accurate — System answer matches expected details about Joyner's exams (all-or-nothing, difficult, TAs handle interactions).
 
 ================================================================================
 Q2: Which professor is best for someone brand new to programming?
@@ -38,8 +38,7 @@ RETRIEVED CHUNKS:
 SOURCES CITED:
   rmp_cedric_stallworth.txt (Cedric Stallworth — CS1371), rmp_frederic_faulkner.txt (Frederic Faulkner — CS1332), rmp_mark_moss.txt (Mark Moss — CS2110), rmp_rodrigo_borela.txt (Rodrigo Borela — CS1301)
 
-ACCURACY JUDGMENT: ____ (accurate / partially accurate / inaccurate)
-
+ACCURACY JUDGMENT: accurate — System correctly identifies Rodrigo Borela as a good choice for beginners (also mentions Mark Moss but favors Borela).
 ================================================================================
 Q3: How heavy is the workload in Professor Starner's AI course?
 
@@ -59,7 +58,8 @@ RETRIEVED CHUNKS:
 SOURCES CITED:
   rmp_thad_starner.txt (Thad Starner — CS3600), rmp_melinda_mcdaniel.txt (Melinda McDaniel — CS4400)
 
-ACCURACY JUDGMENT: ____ (accurate / partially accurate / inaccurate)
+ACCURACY JUDGMENT: partially accurate — System notes evidence both for a heavy, self-taught workload and conflicting lighter ratings; hedging makes it only partially aligned with the "very heavy" expected claim.
+
 
 ================================================================================
 Q4: Which professor gives the most useful feedback on assignments?
@@ -80,7 +80,7 @@ RETRIEVED CHUNKS:
 SOURCES CITED:
   rmp_frederic_faulkner.txt (Frederic Faulkner — CS1332), rmp_mark_moss.txt (Mark Moss — CS2110), rmp_cedric_stallworth.txt (Cedric Stallworth — CS1371)
 
-ACCURACY JUDGMENT: ____ (accurate / partially accurate / inaccurate)
+ACCURACY JUDGMENT: accurate — System appropriately declined due to insufficient evidence about assignment feedback.
 
 ================================================================================
 Q5: Do any CS professors offer makeup exams for students who miss one?
@@ -101,5 +101,4 @@ RETRIEVED CHUNKS:
 SOURCES CITED:
   rmp_melinda_mcdaniel.txt (Melinda McDaniel — CS4400), rmp_abrahim_ladha.txt (Abrahim Ladha — CS2050), rmp_daniel_forsyth.txt (Daniel Forsyth — CS2200), rmp_cedric_stallworth.txt (Cedric Stallworth — CS1371), rmp_david_joyner.txt (David Joyner — CS1301)
 
-ACCURACY JUDGMENT: ____ (accurate / partially accurate / inaccurate)
-
+ACCURACY JUDGMENT: accurate — System appropriately declined due to insufficient evidence about makeup exams.
